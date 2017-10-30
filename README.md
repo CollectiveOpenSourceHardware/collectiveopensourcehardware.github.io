@@ -1,6 +1,6 @@
 # Libre Solar website
 
-URL: [http://libre.solar](http://libre.solar)
+URL: [http://cos-h.solar](http://collectiveopensourcehardware.github.io)
 
 The Libre Solar website was built using Jekyll and Minimal Mistakes theme by Michael Rose.
 
