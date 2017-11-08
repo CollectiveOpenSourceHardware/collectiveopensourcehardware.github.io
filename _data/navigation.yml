@@ -6,57 +6,52 @@ main:
   - title: "Mission"
     url: /mission/
 
-  - title: "Devices"
-    url: /devices/
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Docs"
-    url: /docs/
+  - title: "Gallery"
+    url: /gallery/
+
+  - title: "Collaborate"
+    url: /collaborate
 
   - title: "About"
     url: /about/
 
 
-devices:
-  - title: General
+projects:
+  - title: Open Hardware
     children:
-      - title: "Overview"
-        url: /devices/
-      - title: "Communication subsystem"
-        url: /devices/communication/
+      - title: "Libre Solar Box"
+        url: /projects/libresolarbox/
 
-  - title: Charge controller
+  - title: Open Education Ressource
     children:
-      - title: "MPPT charger 20A"
-        url: /devices/mppt-charger/
-  - title: Battery Management
-    children:
-      - title: "24-48V BMS"
-        url: /devices/bms-48v/
-      - title: "BMS 5s"
-        url: /devices/bms-5s/
-      - title: "Other Projects"
-        url: /devices/other-projects/
+      - title: "Reproduction Guide - Libre Solar"
+        url: /projects/oer-libresolar/
+      - title: "Open Hardware - Collaboration Guide"
 
-docs:
-  - title: Overview
+  - title: Collaboration
     children:
-      - title: "Contents"
-        url: /docs/
-      - title: "Environment and tools"
-        url: /docs/environment/
-  - title: Hardware
+      - title: "Universities"
+        url: /projects/universities/
+      - title: "Organization"
+        url: /projects/organization
+
+gallery:
+  - title: Workshops
     children:
-      - title: "PCB production"
-        url: /docs/pcb/
-      - title: "Parts ordering"
-        url: /docs/bom/
-#      - title: "Soldering"
-#        url: /docs/soldering/
-  - title: Software
+      - title: "Prototype Libre Solar"
+        url: /gallery/ws-prototype-libresolar
+
+collaborate:
+  - title: technical
     children:
-#      - title: "Development"
-#        url: /docs/development/
-      - title: "Flashing"
-        url: /docs/flashing/
+      - title: "development guideline"
+        url: /collaborate/technical
+  - title: non-technical
+    children:
+      - tile: ""
+        url: /collaborate/non-technical
 #      - title: "Testing"
 #        url: /docs/testing/
