@@ -1,7 +1,7 @@
 ---
 title: "Other Open Hardware Projects"
 excerpt: "Overview of projects related to open source energy hardware"
-permalink: /collaborate/collaborate/general
+permalink: /collaborate/general
 ---
 
 # Universities
