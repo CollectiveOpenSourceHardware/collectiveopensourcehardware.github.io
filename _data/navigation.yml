@@ -45,13 +45,12 @@ gallery:
         url: /gallery/ws-prototype-libresolar
 
 collaborate:
-  - title: technical
+  - title: "development guideline"
     children:
-      - title: "development guideline"
-        url: /collaborate/technical
-  - title: non-technical
-    children:
-      - tile: ""
-        url: /collaborate/non-technical
+      - tile: "general"
+        url: /collaborate/general
+      - title: "Digital Environment"
+        url: /collaborate/digital_environment
+
 #      - title: "Testing"
 #        url: /docs/testing/
