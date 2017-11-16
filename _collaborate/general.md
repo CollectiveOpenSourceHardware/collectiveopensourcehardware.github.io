@@ -1,3 +1,9 @@
+---
+title: "Other Open Hardware Projects"
+excerpt: "Overview of projects related to open source energy hardware"
+permalink: /collaborate/collaborate/general
+---
+
 # Universities
 Als Universität oder allgemeine Bildungsinstitution möchten wir gerne Open Hardware und Kreislaufwirtschaft im 
 wissenschaftlichen Rahmen behandeln.
