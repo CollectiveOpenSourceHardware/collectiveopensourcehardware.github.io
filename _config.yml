@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "CollectiveOpenSourceHardware"
+title                    : "Collective Open Source Hardware"
 title_separator          : "-"
 name                     : "cos(h)"
 description              : "Open Source Hardware and Circular Economy"
