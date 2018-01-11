@@ -3,7 +3,7 @@ layout: archive
 title: "Blog"
 ---
 
-{% if page.title %}<img src="https://avatars3.githubusercontent.com/u/27977828?s=200&v=4"><h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+{% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
