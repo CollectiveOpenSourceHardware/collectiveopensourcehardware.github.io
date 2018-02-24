@@ -6,18 +6,57 @@ main:
   - title: "Mission"
     url: /mission/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Solar Box"
+    url: /solarbox/
 
-  - title: "Gallery"
-    url: /gallery/
+#  - title: "Gallery"
+#    url: /gallery/
 
-  - title: "Collaborate"
-    url: /collaborate
+#  - title: "Collaborate"
+#    url: /collaborate
 
   - title: "About"
     url: /about/
 
+solarbox:
+  - title: Energy Systems
+    children:
+      - title: "Introduction"
+        url: /solarbox/
+      - title: "System Components"
+        url: /solarbox/components/
+      - title: "DC vs. AC"
+        url: /solarbox/dc_ac/
+
+  - title: PCB Reproduction
+    children:
+      - title: "Needed Skills"
+        url: /solarbox/skills/
+      - title: "Tools & Environment"
+        url: /solarbox/environment/
+      - title: "Bill of Materials"
+        url: /solarbox/bom/
+      - title: "PCB production"
+        url: /solarbox/pcb_production/
+      - title: "Stencil production"
+        url: /solarbox/stencil/
+      - title: "Rakeln"
+        url: /solarbox/smt_soldering/
+      - title: "Pick and Place"
+        url: /solarbox/pick_place/
+      - title: "Reflow Oven"
+        url: /solarbox/reflow_oven/
+      - title: "THT Soldering"
+        url: /solarbox/tht_soldering/
+      - title: "Commissioning"
+        url: /solarbox/commissioning/
+      - title: "Firmware Flashing"
+        url: /solarbox/flashing/
+
+  - title: Box Design
+    children:
+      - title: "Uni-Pro Kit"
+        url: /solarbox/unipro/
 
 projects:
   - title: Open Hardware

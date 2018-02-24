@@ -11,11 +11,11 @@ title                    : "Collective Open Source Hardware"
 title_separator          : "-"
 name                     : "cos(h)"
 description              : "Open Source Hardware and Circular Economy"
-url                      : "" #"https://collectiveopensourcehardware.github.io/" #"http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logourl                  : "Logo_cosh.png"
+logourl                  : "logo_cosh.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -200,7 +200,7 @@ collections:
   devices:
     output: true
     permalink: /:collection/:path/
-  docs:
+  solarbox:
     output: true
     permalink: /:collection/:path/
 
@@ -233,10 +233,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _devices
+  # _solarbox
   - scope:
       path: ""
-      type: devices
+      type: solarbox
     values:
       layout: single
       read_time: false
@@ -244,7 +244,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "devices"
+        nav: "solarbox"
   # _docs
   - scope:
       path: ""
