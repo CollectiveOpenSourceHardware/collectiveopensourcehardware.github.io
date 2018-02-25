@@ -12,9 +12,7 @@ By collaboration with universities and research institutes, we would like to pro
 
 The Open Education Ressource (OER) of the Libre Solar Box Reproduction was supported and funded by the Hamburg Open Online University (HOOU).
 
-![Hoou](/images/hoou_logo_small.png)
-
-One future goal is to integrate the developed system components also into seminars at different universities.
+One goal is to integrate the developed system components also into seminars practical projects at different universities.
 
 ## Fab Labs
 
