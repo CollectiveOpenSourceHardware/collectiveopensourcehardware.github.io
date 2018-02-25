@@ -18,9 +18,10 @@ main:
   - title: "About"
     url: /about/
     
-Mission:
+mission:
   - title: Open Source
     url: url: /solarbox/system_intro/
+  - title: Open Education
 
 solarbox:
   - title: Energy Systems
