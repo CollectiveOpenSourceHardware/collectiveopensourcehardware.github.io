@@ -36,7 +36,7 @@ Open Source Ecology, Community Mitglied im Open Hardware Umfeld
 
 ## Open Hardware Projects
 
-![libre_solar](/images/liblesolar_logo_small.png)
+![libre_solar](/images/libresolar_logo_small.png)
 
 The Libre Solar project provides the needed elctrical parts for building up a the decentralized energy supply.
 With this project we want to show the possibilities of open hardware by reproducing the PCB and developing a system around the electrical parts.
