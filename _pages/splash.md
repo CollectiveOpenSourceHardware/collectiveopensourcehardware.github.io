@@ -10,19 +10,19 @@ header:
   cta_label: "Find out more..."
   cta_url: "/mission/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Let's build sustainable products. For everyone."
+excerpt: "Let's build sustainable hardware. For everyone."
 feature_row:
   - image_path: images/team.jpg
     alt: "Collective Open Source Hardware"
-    title: "Cos(h) Team"
+    title: "cos(h) Team"
     excerpt: "We are a team of open source hardware enthusiasts located in Hamburg."
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: images/reproduction_day.jpg
     alt: "Libre Solar Reproduction"
-    title: "Open Education - <br />Libre Solar Reproduction"
-    excerpt: "Soldering of MPPT and BMS"
+    title: "Open Education - <br />Libre Solar"
+    excerpt: "Reproduction of renewable energy hardware"
     url: "/solarbox/libre_solar_overview/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
