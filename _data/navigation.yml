@@ -6,7 +6,7 @@ main:
   - title: "Mission"
     url: /mission/
 
-  - title: "Collaborations"
+  - title: "Collaboration"
     url: /collaborations
 
   - title: "Solar Box"
@@ -17,6 +17,10 @@ main:
 
   - title: "About"
     url: /about/
+    
+Mission:
+  - title: Open Source
+    url: url: /solarbox/system_intro/
 
 solarbox:
   - title: Energy Systems
