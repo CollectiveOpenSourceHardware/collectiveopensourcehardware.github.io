@@ -6,7 +6,7 @@ permalink: /collaborations
 
 ## Universities
 
-![Hoou](/images/hoou_logo_small.png)
+![Hoou](/images/hoou_logo_small.png)</ref https://www.hoou.de/>
 
 By collaboration with universities and research institutes, we would like to promote the ideas of Open Hardware and Circular Economy also in scientific contexts.
 
