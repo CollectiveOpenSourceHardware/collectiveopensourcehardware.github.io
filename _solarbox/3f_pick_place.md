@@ -3,8 +3,6 @@ title: "Pick and Place"
 permalink: /solarbox/pick_place/
 ---
 
-Once the solder paste is applied to the PCB based, We now proceed with placing the electronic components.
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
 .tg td{font-family:Arial, sans-serif;font-size:16px;padding:10px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
@@ -37,6 +35,7 @@ Once the solder paste is applied to the PCB based, We now proceed with placing t
   </tr>
 </table>
 
+Once the solder paste is applied to the PCB based, We now proceed with placing the electronic components.
 
 ## Reading the PCB layout
 Since there is a long list of components to be placed, It is easier to organize them in orderly fashion, for ex: starting with resistors of one class and then the next by referring the Items list as show below.
