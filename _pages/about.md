@@ -3,11 +3,12 @@ title: "About cos(h)"
 permalink: /about/
 #author_profile: true
 ---
+**C**ollective **O**pen **S**ource **H**ardware - cos(h)
 
-We are a team of open source hardware enthusiasts located in Hamburg.
+We are a collactive of open source hardware enthusiasts located in Hamburg.
 
-![Cos(h) team during Libre Solar PCB reproduction](/images/team.jpg)
-Cos(h) team during Libre Solar PCB reproduction day in 2017
+![cos(h) team during Libre Solar PCB reproduction](/images/team.jpg)
+cos(h) team during Libre Solar PCB reproduction workshop at the fablab St.Pauli in 2017.
 
 ## Imprint / Impressum
 
