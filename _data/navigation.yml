@@ -6,14 +6,14 @@ main:
   - title: "Mission"
     url: /mission/
 
+  - title: "Collaborations"
+    url: /collaborations
+
   - title: "Solar Box"
     url: /solarbox/
 
 #  - title: "Gallery"
 #    url: /gallery/
-
-#  - title: "Collaborate"
-#    url: /collaborate
 
   - title: "About"
     url: /about/
@@ -22,25 +22,36 @@ solarbox:
   - title: Energy Systems
     children:
       - title: "Introduction"
-        url: /solarbox/
+        url: /solarbox/system_intro/
       - title: "System Components"
         url: /solarbox/components/
-      - title: "DC vs. AC"
-        url: /solarbox/dc_ac/
+      - title: "Fossil vs. Renewable"
+        url: /solarbox/fossil_renewable/
+      - title: "AC vs. DC"
+        url: /solarbox/ac_dc/
+      - title: "Central vs. Decentral"
+        url: /solarbox/central_decentral/
+
+  - title: Libre Solar
+    children:
+      - title: "Overview"
+        url: /solarbox/libre_solar_overview/
+      - title: "Applications"
+        url: /solarbox/libre_solar_applications/
 
   - title: PCB Reproduction
     children:
       - title: "Needed Skills"
         url: /solarbox/skills/
+      - title: "Roadmap"
+        url: /solarbox/pcb_roadmap/
       - title: "Tools & Environment"
         url: /solarbox/environment/
-      - title: "Bill of Materials"
-        url: /solarbox/bom/
-      - title: "PCB production"
-        url: /solarbox/pcb_production/
-      - title: "Stencil production"
+      - title: "Ordering Process"
+        url: /solarbox/pcb_order/
+      - title: "Creating a Stencil"
         url: /solarbox/stencil/
-      - title: "Rakeln"
+      - title: "Applying Solder"
         url: /solarbox/smt_soldering/
       - title: "Pick and Place"
         url: /solarbox/pick_place/
@@ -53,10 +64,10 @@ solarbox:
       - title: "Firmware Flashing"
         url: /solarbox/flashing/
 
-  - title: Box Design
-    children:
-      - title: "Uni-Pro Kit"
-        url: /solarbox/unipro/
+#  - title: Box Design
+#    children:
+#      - title: "Uni-Pro Kit"
+#        url: /solarbox/unipro/
 
 projects:
   - title: Open Hardware

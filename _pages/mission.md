@@ -5,6 +5,12 @@ sitemap: false
 permalink: /mission/
 ---
 
-Some nice words about what we want.
+- Research and development based on Open Source
 
+- Reproduction and improvement of existing Open Source Projects
 
+- Documentation in the form of Open Education Ressources (OER)
+
+- Decentralized production at universities and open workshops / fab labs
+
+- Interdisciplinary and international collaboration
