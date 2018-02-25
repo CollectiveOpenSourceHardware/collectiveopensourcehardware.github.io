@@ -6,14 +6,14 @@ main:
   - title: "Mission"
     url: /mission/
 
-  - title: "Collaboration"
-    url: /collaborations
-
   - title: "Solar Box"
     url: /solarbox/
 
 #  - title: "Gallery"
 #    url: /gallery/
+
+  - title: "Collaboration"
+    url: /collaborations
 
   - title: "About"
     url: /about/
