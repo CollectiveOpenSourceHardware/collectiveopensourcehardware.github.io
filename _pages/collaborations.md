@@ -6,11 +6,11 @@ permalink: /collaborations
 
 ## Universities
 
-![Hoou](/images/hoou_logo_small.png)</ref https://www.hoou.de/>
+![Hoou](/images/hoou_logo_small.png)
 
 By collaboration with universities and research institutes, we would like to promote the ideas of Open Hardware and Circular Economy also in scientific contexts.
 
-The Open Education Ressource (OER) of the Libre Solar Box Reproduction was supported and funded by the Hamburg Open Online University (HOOU).
+The Open Education Ressource (OER) of the Libre Solar Box Reproduction was supported and funded by the [Hamburg Open Online University (HOOU)](https://www.hoou.de/).
 
 One goal is to integrate the developed system components also into seminars practical projects at different universities.
 
