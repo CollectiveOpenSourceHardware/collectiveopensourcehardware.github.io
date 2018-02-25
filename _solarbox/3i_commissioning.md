@@ -3,9 +3,6 @@ title: "Commissioning and testing of PCB hardware"
 permalink: /solarbox/commissioning/
 ---
 
-
-Before you can flash the board, you should perform basic checks of the soldering process and the hardware of the board.
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
 .tg td{font-family:Arial, sans-serif;font-size:16px;padding:10px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
@@ -33,6 +30,8 @@ Before you can flash the board, you should perform basic checks of the soldering
     <td class="tg-rmb9"><30 minutes (if you were careful dring PCB production)</td>
   </tr>
 </table>
+
+Before you can flash the board, you should perform basic checks of the soldering process and the hardware of the board.
 
 ## Solder bridges
 
