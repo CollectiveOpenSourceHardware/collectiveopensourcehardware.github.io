@@ -17,10 +17,7 @@ Typical stationary applications that are possbible with Libre Solar:
 
 The following figure shows the general system architecture of a decentralized direct current (DC) energy grid. By pressing the red marked points, you will find a description of the individual components.
 
-<!--
-// H5P einbinden
-![System_Layout](/media_files/introduction_system_layout.png)
--->
+<iframe src="https://h5p.org/h5p/embed/192030" width="800" height="695" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Mobile Anwendung
 
