@@ -3,6 +3,34 @@ title: "Ordering of PCB and electronics components"
 permalink: /solarbox/pcb_order/
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
+.tg td{font-family:Arial, sans-serif;font-size:16px;padding:10px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
+.tg .tg-rmb8{font-weight:bold;vertical-align:top; text-align:right;}
+.tg .tg-rmb9{vertical-align:top}
+.tg .tg-yw4l{font-weight:bold;vertical-align:top; text-align:right;}
+.tg .tg-yw42{vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+    <td class="tg-yw4l">Material</td>
+    <td class="tg-yw42">Data from Github</td>
+  </tr>
+  <tr>
+    <td class="tg-rmb8">Tools</td>
+    <td class="tg-rmb9">Computer with internet access</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Needed Skills<br></td>
+    <td class="tg-yw42">Basic PC knowledge</td>
+  </tr>
+  <tr>
+    <td class="tg-rmb8">Time</td>
+    <td class="tg-rmb9">60 minutes</td>
+  </tr>
+</table>
+
 The first step to build up the hardware is ordering a PCB. Most of the Libre Solar components are too complex to be produced at home, so you will have to order the PCBs. This step-by-step guide will show how to obtain all necessary data for the fab house. We will use the Libre Solar MPPT charge controller as an example, but the steps are the same for all other projects.
 
 ## Download of hardware files

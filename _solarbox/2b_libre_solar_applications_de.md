@@ -1,8 +1,8 @@
----
-title: "Possible Applications with Libre Solar"
-excerpt: ""
-permalink: /solarbox/libre_solar_applications/
----
+#---
+#title: "Possible Applications with Libre Solar"
+#excerpt: ""
+#permalink: /solarbox/libre_solar_applications/
+#---
 
 Wie im vorherigen Kapitel beschrieben kann mit Hilfe der Libre Solar Komponenten ein lokales dezentrales Energienetz aufgebaut werden. Die Systemarchitektur unterscheidet sich je nach Anwendungsfall und Anforderung, die vom Nutzer an das System gestellt wird.
 
