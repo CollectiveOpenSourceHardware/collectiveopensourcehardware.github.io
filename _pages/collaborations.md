@@ -18,6 +18,8 @@ One goal is to integrate the developed system components also into seminars and 
 
 ![fablab_stpauli](/images/fabulous_logo_small.png)
 
+With Fablabs we want to demonstrate the possbilities of decentral prodcution.
+
 The Libre Solar Box was built in the [Fab Lab St. Pauli](http://fablab-hamburg.org/) (Hamburg, Germany).
 
 
@@ -36,12 +38,16 @@ Open Source Ecology, Community Mitglied im Open Hardware Umfeld
 
 ![libre_solar](/images/libresolar_logo_small.png)
 
+Open Hardware Projects are the fundamentals of our work.
+
 The [Libre Solar](http://libre.solar/) project provides the needed elctrical parts for building up a the decentralized energy supply.
 With this project we want to show the possibilities of open hardware by reproducing the PCB and developing a system around the electrical parts.
 
 ## Community
 
 ![oseg](/images/Logo_OSEG.png)
+
+The Open Source community is big so we want to use synergies between different activities and share our work.
 
 Together with [Open Source Ecology Germany](https://opensourceecology.de/) we are part of a collaborative community for open hardware and circular economy.
 
