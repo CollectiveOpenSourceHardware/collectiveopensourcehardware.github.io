@@ -3,15 +3,15 @@ title: "Roadmap of the Reproduction Guide"
 permalink: /solarbox/pcb_roadmap/
 ---
 
-Eine elektrische Platine besteht aus zwei Grundmodulen
-- einer Leiterplatte
-- die elektrischen Bauteile
+An electrical board consists of two basic modules
+- circuit board
+- electrical components
 
-Diese zwei Komponenten müssen miteinander kombiniert werden um eine funktionsfähige Platine zu erhalten.
-Dieser Kombinationsprozess wird in den folgenden einzelnen Schritten aufgezeigt.
+These two components must be combined together to get a working board.
+This combination process is shown in the steps.
 
-Die Produktion der Leiterplatine ist nicht Bestandteil dieser Schrittanleitung. Diese wird extern über einen Hersteller bezogen.
+The production of the printed circuit board is not part of this step-by-step guide. It is obtained externally from a manufacturer. How to order a blank PCB is explained under [Ordering Process](/solarbox/pcb_order).
 
-Folgende Abbildung zeigt eine Übersicht der einzelnen erforderlichen Schritte.
+The following figure shows an overview of the each required step.
 
 ![roadmap](/media_files/pcb_roadmap.png)

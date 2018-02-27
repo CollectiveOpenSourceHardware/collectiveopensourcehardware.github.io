@@ -22,7 +22,7 @@ feature_row:
   - image_path: images/reproduction_day.jpg
     alt: "Libre Solar Reproduction"
     title: "Open Education - Libre Solar"
-    excerpt: "Reproduction of renewable energy hardware <br />"
+    excerpt: "Reproduction of renewable energy hardware <br>"
     url: "/solarbox/libre_solar_overview/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
