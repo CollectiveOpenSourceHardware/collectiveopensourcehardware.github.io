@@ -1,7 +1,7 @@
----
-title: "Roadmap of the Reproduction Guide"
-permalink: /solarbox/pcb_roadmap/
----
+#---
+#title: "Roadmap of the Reproduction Guide"
+#permalink: /solarbox/pcb_roadmap/
+#---
 
 Eine elektrische Platine besteht aus zwei Grundmodulen
 - einer Leiterplatte

@@ -1,8 +1,8 @@
----
-title: "Overview Libre Solar"
-excerpt: ""
-permalink: /solarbox/libre_solar_overview/
----
+#---
+#title: "Overview Libre Solar"
+#excerpt: ""
+#permalink: /solarbox/libre_solar_overview/
+#---
 
 In diesem Kapitel wollen wir ersteinmal ganz allgemein erklären um was es sich bei Libre Solar handelt, welche Komponenten darin enthalten sind und für welche Anwendungen es genutzt werden kann.
 

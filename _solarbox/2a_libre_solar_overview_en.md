@@ -10,15 +10,13 @@ Libre Solar ist ein Open Hardware Projekt für den Aufbau eines lokalen Energien
 
 
 ## Kurzbeschreibung der Komponenten
-
-![roadmap](/media_files/pcb_MPPT_charger_20A_rendered.png)
-
 Folgende Komponenten sind Bestandteil des Libre Solar Projekts
 - **MPPT** (Maximum Power Point Tracker)
 - **BMS** (Battery-Management-System)
 - **CAN2Wifi** (Kommunikations-Gateway)
 
 ### MPPT
+![roadmap](/media_files/pcb_MPPT_charger_20A_rendered.png)
 Das MPPT Modul stellt einen Solarladeregler dar. Dieser speist die elektrische Leistung aus den Solarpanels (Hinweis: es können dabei nicht nur Solarpanels als Quelle genutzt werden, sondern auch Kleinwindanlagen oder Fahrradgeneratoren) in den angeschlossenen Batteriespeicher. Ein direktes Anschließen von Solarpanels an eine Batterien, würde die Batterie nach kurzer Zeit zerstören, da keinerlei Überwachung der Spannungen und Ströme erfolgt und damit die Betriebsvorschriften der Batterie nicht eingehalten werden. Daher ist ein Laderegler zwingend erforderlich.
 
 Die Besonderheit eines MPPT Ladereglers ist die optimale Leistungsentnahme eines Solarmoduls. Dies wird durch das Nachverfolgen (Tracking) der Spannungs/Stromkennlinie realisiert.

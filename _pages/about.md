@@ -13,7 +13,7 @@ Our group consists of people from all around the world who find their way in Ham
 Our goal is to contribute building up a sustainable future with openess and love.
 
 ![cos(h) team during Libre Solar PCB reproduction](/images/team.jpg)
-![cos(h) team during Libre Solar PCB reproduction](/images/team_2.jpg)
+![cos(h) team during Libre Solar PCB reproduction](/images/team_1.jpg)
 
 
 All our content and development is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
