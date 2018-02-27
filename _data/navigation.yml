@@ -17,7 +17,7 @@ main:
 
   - title: "About"
     url: /about/
-    
+
 #mission:
 #  - title: Open Source
 #    url: url: /solarbox/system_intro/
@@ -64,7 +64,7 @@ solarbox:
         url: /solarbox/reflow_oven/
       - title: "THT Soldering"
         url: /solarbox/tht_soldering/
-      - title: "Commissioning"
+      - title: "Hardware Test"
         url: /solarbox/commissioning/
       - title: "Firmware Flashing"
         url: /solarbox/flashing/

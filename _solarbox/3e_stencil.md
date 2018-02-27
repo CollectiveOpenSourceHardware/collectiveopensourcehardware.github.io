@@ -5,7 +5,7 @@ permalink: /solarbox/stencil/
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
-.tg td{font-family:Arial, sans-serif;font-size:16px;padding:10px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
+.tg td{font-family:Arial, sans-serif;font-size:16px;padding:2px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
 .tg .tg-rmb8{font-weight:bold;vertical-align:top; text-align:right;}
 .tg .tg-rmb9{vertical-align:top}
 .tg .tg-yw4l{font-weight:bold;vertical-align:top; text-align:right;}
@@ -33,7 +33,7 @@ permalink: /solarbox/stencil/
 
 Before fitting all the small electronic parts on to the PCB we need to apply solder first. In this tutorial you learn how to create a reusable stencil which is used later to spread solder on to the whole board.
 
-Instead of applying solder manually to every solder joint we use a laser cutter to create a stencil which can be reused if you want to prepare more than one PCB. You will fix the stencil on the board so than you can all the solder junction but nothing else - afterward you spread solder on the board which is explaned in the [next tutorial](/solarbox/smt_soldering). 
+Instead of applying solder manually to every solder joint we use a laser cutter to create a stencil which can be reused if you want to prepare more than one PCB. You will fix the stencil on the board so than you can all the solder junction but nothing else - afterward you spread solder on the board which is explaned in the [next tutorial](/solarbox/smt_soldering).
 
 ![fitting the stencil onto the PCB](/media_files/stencil_fit.jpg)
 
@@ -52,7 +52,7 @@ The higher the power of the beam and the longer the beam stays at one place the 
 1. 10% power, 100% speed
 2. 5% power, 100% speed
 3. 4% power, 100% speed
-4. 4% power, 50% speed 
+4. 4% power, 50% speed
 
 ![laser cutting test with different parameters](/media_files/stencil_parametertest.jpg)
 
@@ -60,7 +60,7 @@ In this example the parameter set of test no. 2 was used to laser cut the stenci
 
 ### KiCAD SVG export
 
-The stencil can be created by exporting an image in SVG file format from the KiCAD board file. The process is analog to exporting a gerber file explained [in the PCB production tutorial](pcb_production.md). 
+The stencil can be created by exporting an image in SVG file format from the KiCAD board file. The process is analog to exporting a gerber file explained [in the PCB production tutorial](pcb_production.md).
 
 <!--
 `Hier noch Klick-Video und/oder Beschreibung für SVG export!`
