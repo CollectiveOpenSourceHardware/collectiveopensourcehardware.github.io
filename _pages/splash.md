@@ -14,7 +14,7 @@ excerpt: "Let's build sustainable hardware. For everyone."
 feature_row:
   - image_path: images/team.jpg
     alt: "Collective Open Source Hardware"
-    title: "cos(h) Team                 "
+    title: "cos(h) Team <br> <br>"
     excerpt: "We are a team of open source hardware enthusiasts located in Hamburg."
     url: "/about/"
     btn_label: "Read More"
@@ -22,7 +22,7 @@ feature_row:
   - image_path: images/reproduction_day.jpg
     alt: "Libre Solar Reproduction"
     title: "Open Education - Libre Solar"
-    excerpt: "Reproduction of renewable energy hardware <br>       "
+    excerpt: "Reproduction of renewable energy hardware <br><br>"
     url: "/solarbox/libre_solar_overview/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
