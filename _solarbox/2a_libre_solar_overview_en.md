@@ -10,6 +10,9 @@ Libre Solar ist ein Open Hardware Projekt für den Aufbau eines lokalen Energien
 
 
 ## Kurzbeschreibung der Komponenten
+
+![roadmap](/media_files/pcb_MPPT_charger_20A_rendered.png)
+
 Folgende Komponenten sind Bestandteil des Libre Solar Projekts
 - **MPPT** (Maximum Power Point Tracker)
 - **BMS** (Battery-Management-System)

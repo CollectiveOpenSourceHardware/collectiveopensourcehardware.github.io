@@ -12,14 +12,14 @@ A stationary structure can be used for the energy supply of a small house or all
 
 Typical stationary applications that are possbible with Libre Solar:
 - Apartments
-- Tiny houses or normal houses
+- Tiny houses
 - Fablabs
 
 The following figure shows the general system architecture of a decentralized direct current (DC) energy grid. By pressing the red marked points, you will find a description of the individual components.
 
-<iframe src="https://h5p.org/h5p/embed/192030" width="500" height="695" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/192030" width="500" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Mobile Anwendung
+## Mobile Applications
 
 A mobile application means a location-independent provision of energy supply, so a power plant that supplies energy everywhere.
 The main requirement for a mobile energy source is the light weight. The largest weight factor is represented by the batteries which is defined by their energy density.
