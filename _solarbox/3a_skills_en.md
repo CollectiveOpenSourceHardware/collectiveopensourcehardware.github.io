@@ -29,7 +29,7 @@ You will need the electrical skills for
 ## Practical Work with electrical components
 The handling of electrical components differs from other handcraft activities in the electric current that comes into play and this can be dangerous if it is handled incorrectly.
 The electric boards which are reproduced with the provided step-by-step guide have a little current flow as long as no solar panels are connected. Anyway we want to point out the 5 safety rules of electrical engineering.
-#### 5 safety rules:
+### 5 safety rules:
 - switch off
 - lock against reclosure
 - check that lines and equipment dead

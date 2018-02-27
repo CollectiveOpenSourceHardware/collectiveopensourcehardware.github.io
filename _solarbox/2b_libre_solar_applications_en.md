@@ -10,14 +10,15 @@ As described in the previous chapter, a local decentralized energy grid can be b
 
 A stationary structure can be used for the energy supply of a small house or allotment gardening. Small means low power requirements. It is not the goal to supply a large production hall with x machines, but typical electrical loads in a 2 person household. If more power is needed it is possible to connect several components together to achieve a distributed system.
 
-Typical stationary applications that are possbible with Libre Solar:
+Typical stationary energy supply applications that are possbible with Libre Solar:
 - Apartments
 - Tiny houses
 - Fablabs
 
 The following figure shows the general system architecture of a decentralized direct current (DC) energy grid. By pressing the red marked points, you will find a description of the individual components.
 
-<iframe src="https://h5p.org/h5p/embed/192030" width="800" height="695" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.org/h5p/embed/192030" width="500" height="434" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Mobile Applications
 
