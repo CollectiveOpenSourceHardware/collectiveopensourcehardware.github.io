@@ -64,7 +64,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "HOOU"
+  name             : "cos(h)"
   avatar           : "images/photo-mj.jpg"
   bio              : ""
   location         : "Hamburg"
@@ -202,7 +202,10 @@ collections:
   devices:
     output: true
     permalink: /:collection/:path/
-  solarbox:
+  education:
+    output: true
+    permalink: /:collection/:path/
+  hardware:
     output: true
     permalink: /:collection/:path/
 
@@ -235,10 +238,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _solarbox
+  # education
   - scope:
       path: ""
-      type: solarbox
+      type: education
     values:
       layout: single
       read_time: false
@@ -246,11 +249,11 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "solarbox"
-  # _docs
+        nav: "education"
+  # hardware
   - scope:
       path: ""
-      type: docs
+      type: hardware
     values:
       layout: single
       read_time: false
@@ -258,6 +261,4 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "docs"
-
-
+        nav: "hardware"

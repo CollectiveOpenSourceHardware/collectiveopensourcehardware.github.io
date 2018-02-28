@@ -25,4 +25,5 @@ Responsible for the content of the website is the cos(h) team, represented by
 
 Michel Langhammer<br>
 Berliner Tor 7, 20099 Hamburg<br>
-michel.langhammer@haw-hamburg.de
+
+E-mail: michel (dot) langhammer (at) haw-hamburg (dot) de
