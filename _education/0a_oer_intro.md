@@ -1,6 +1,6 @@
 ---
 title: "Open Education Ressource - Libre Solar"
-permalink: /education/libre_solar_intro/
+permalink: /education/
 ---
 
 The following pages will describe the build-up of an open source solar box based on Libre Solar components. As an Open Education Resource (OER), it is aimed to be accessible to as many people as possible.

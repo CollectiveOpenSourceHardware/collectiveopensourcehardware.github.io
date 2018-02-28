@@ -1,6 +1,6 @@
 ---
 title: "Libre Solar Box"
-permalink: /hardware/solarbox_intro/
+permalink: /hardware/
 ---
 
 ## Documentation still under development...
