@@ -29,7 +29,7 @@ feature_row:
   - image_path: media_files/libre_solar_box_layout.png
     title: "Open Hardware - <br />Solar Box"
     excerpt: "Portable solar generator with Li-Ion batteries."
-    url: "/hardware/solarbox_intro/"
+    url: "/hardware/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

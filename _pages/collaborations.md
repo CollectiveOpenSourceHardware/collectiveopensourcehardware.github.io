@@ -1,7 +1,7 @@
 ---
 title: "Collaborations for Open Knowledge"
 excerpt: "Overview of projects related to open source energy hardware"
-permalink: /collaborations
+permalink: /collaborations/
 ---
 
 ## Universities
