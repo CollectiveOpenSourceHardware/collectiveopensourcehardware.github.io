@@ -26,9 +26,9 @@ A mobile application means a location-independent provision of energy supply, so
 The main requirement for a mobile energy source is the light weight. The largest weight factor is represented by the batteries which is defined by their energy density.
 
 Typical mobile applications that are possible with Libre Solar:
-- Caravan / Camping bus
+- Caravan / Camping bus, House Boat
 - Electric bicycle
 - Solar box
 
-Under the term solar box can be understood a large power bank which we know for loading our mobile phones. So a solarbox is a big mobile battery storage extended with plugs and switches.
+Under the term solar box can be understood a large power bank which we know for loading our mobile phones. So a solarbox is a big portable battery storage extended with plugs and switches.
 Further information can be found in our chapter [Solar Box](/solarbox/unipro/)
