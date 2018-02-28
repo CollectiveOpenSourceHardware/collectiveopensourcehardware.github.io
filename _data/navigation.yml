@@ -74,7 +74,7 @@ education:
 
 hardware:
  - title: Solar Box
-    children:
+   children:
       - title: "System Overview"
         url: /hardware/solarbox_intro/
 
