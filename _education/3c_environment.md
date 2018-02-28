@@ -1,12 +1,12 @@
 ---
 title: "Environment and Tools"
 excerpt: ""
-permalink: /solarbox/environment/
+permalink: /education/reproduction_environment/
 ---
 
 The Libre Solar project files are all open source and [stored on GitHub](https://github.com/LibreSolar). There is a separate repository for each PCB and an additional repository for the software.
 
-Some of the repositories contain git submodules, so please use 
+Some of the repositories contain git submodules, so please use
 ```
 git clone --recursive <repository>
 ```
@@ -30,7 +30,7 @@ The footprint library is directly included via the github import feature in KiCa
 
 The firmware for the Libre Solar hardware is developed using the [ARM mbed OS](https://developer.mbed.org/) embedded software framework. This makes it possible to use easy-to-understand C++ syntax (similar to Arduino) and enhances community based software development.
 
-We recommend to use Visual Studio Code and [PlatformIO](http://platformio.org/) as an IDE for software development. 
+We recommend to use Visual Studio Code and [PlatformIO](http://platformio.org/) as an IDE for software development.
 
 All Libre Solar software repositories are structured as PlatformIO projects:
 
@@ -65,7 +65,7 @@ upload_protocol = stlink
 # - enable float formatting for printf, adding approx. 7 kB of bin file size
 # - C++11 to be able to define default values for struct members
 # - Use low speed internal clock (LSI) for RTC (no LSE crystal on PCB)
-build_flags = 
+build_flags =
     -Wl,-u_printf_float
     -std=c++11
     -DMBED_CONF_TARGET_LSE_AVAILABLE=0

@@ -1,6 +1,6 @@
 ---
 title: "Pick and Place"
-permalink: /solarbox/pick_place/
+permalink: /education/reproduction_pick_place/
 ---
 
 <style type="text/css">
@@ -28,10 +28,6 @@ permalink: /solarbox/pick_place/
   <tr>
     <td class="tg-rmb8">Time</td>
     <td class="tg-rmb9">45-60 minutes</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Result</td>
-    <td class="tg-yw42">Tested OK</td>
   </tr>
 </table>
 

@@ -1,6 +1,6 @@
 ---
 title: "Needed Skills"
-permalink: /solarbox/skills/
+permalink: /education/reproduction_skills/
 ---
 
 For the successful performance of the following step-by-step instructions some prior knowledge is necessary which is not be described in detail.

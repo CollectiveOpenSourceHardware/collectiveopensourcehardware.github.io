@@ -1,6 +1,6 @@
 ---
 title: "Libre Solar Box"
-permalink: /solarbox/unipro/
+permalink: /hardware/solarbox_intro/
 ---
 
 ## Documentation still under development...
@@ -8,6 +8,10 @@ permalink: /solarbox/unipro/
 You find our development process of the solar box on following [GitHub repository](https://github.com/CollectiveOpenSourceHardware/LibreSolarBox). Feel free to fork and contribute.
 
 ## Some impressions...
+
+![Libre Solar Box Layout](/media_files/libre_solar_box_layout.png)
+
+Overview of the Libre Solar Box layout.
 
 ![solarbox_freeCAD](/media_files/solarbox_v02_freecad.jpg)
 

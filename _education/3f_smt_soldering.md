@@ -1,6 +1,6 @@
 ---
 title: "Applying Solder paste onto the PCB"
-permalink: /solarbox/smt_soldering/
+permalink: /education/reproduction_smt_soldering/
 ---
 
 <style type="text/css">
@@ -28,10 +28,6 @@ permalink: /solarbox/smt_soldering/
   <tr>
     <td class="tg-rmb8">Time</td>
     <td class="tg-rmb9">15 minutes</td>
-  </tr>
-   <tr>
-    <td class="tg-rmb8">Result</td>
-    <td class="tg-rmb9">PCB with solder</td>
   </tr>
 </table>
 

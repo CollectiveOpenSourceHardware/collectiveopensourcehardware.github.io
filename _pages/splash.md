@@ -23,13 +23,13 @@ feature_row:
     alt: "Libre Solar Reproduction"
     title: "Open Education - <br> Libre Solar"
     excerpt: "Step-by-step guide for renewable energy hardware. <br>"
-    url: "/solarbox/libre_solar_overview/"
+    url: "/education/libre_solar_intro"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: images/libre_solar_box_layout.png
     title: "Open Hardware - <br />Solar Box"
     excerpt: "Portable solar generator with Li-Ion batteries."
-    url: "/solarbox/unipro/"
+    url: "/hardware/solarbox_intro/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

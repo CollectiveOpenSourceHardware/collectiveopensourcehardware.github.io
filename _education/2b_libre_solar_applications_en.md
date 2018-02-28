@@ -1,14 +1,14 @@
 ---
 title: "Possible Applications with Libre Solar"
 excerpt: ""
-permalink: /solarbox/libre_solar_applications/
+permalink: /education/libre_solar_applications/
 ---
 
 As described in the previous chapter, a local decentralized energy grid can be built using the Libre Solar components. The system architecture differs depending on the use case and the requirements made by the user to the system.
 
-## Stationary Construction
+## Stationary Application
 
-A stationary structure can be used for the energy supply of a small house or allotment gardening. Small means low power requirements. It is not the goal to supply a large production hall with x machines, but typical electrical loads in a 2 person household. If more power is needed it is possible to connect several components together to achieve a distributed system.
+A stationary structure can be used for example for the the energy supply of a small house or allotment gardening. Small in this case means low power requirements. It is not the goal to supply a large plant with 100 machines, but typical electrical loads in a 2 person household. If more power is needed it is possible to connect several components together to achieve a distributed system.
 
 Typical stationary energy supply applications that are possbible with Libre Solar:
 - Apartments
@@ -30,5 +30,5 @@ Typical mobile applications that are possible with Libre Solar:
 - Electric bicycle
 - Solar box
 
-Under the term solar box can be understood a large power bank which we know for loading our mobile phones. So a solarbox is a big portable battery storage extended with plugs and switches.
-Further information can be found in our chapter [Solar Box](/solarbox/unipro/)
+Under the term solar box can be understood a large power bank which we know for loading our mobile phones. So a solarbox is a big portable battery storage extended with plugs and switches to connect solarpanels and electrical devices.
+Further information can be found in our chapter [Solar Box](/hardware/solarbox_intro/)

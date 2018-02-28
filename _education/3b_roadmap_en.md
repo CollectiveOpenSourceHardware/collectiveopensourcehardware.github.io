@@ -1,6 +1,6 @@
 ---
 title: "Roadmap of the Reproduction Guide"
-permalink: /solarbox/pcb_roadmap/
+permalink: /education/reproduction_pcb_roadmap/
 ---
 
 An electrical board consists of two basic modules

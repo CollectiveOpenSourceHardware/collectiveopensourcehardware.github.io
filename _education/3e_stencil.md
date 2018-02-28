@@ -1,6 +1,6 @@
 ---
 title: "Creating a Stencil"
-permalink: /solarbox/stencil/
+permalink: /education/reproduction_stencil/
 ---
 
 <style type="text/css">
@@ -27,7 +27,7 @@ permalink: /solarbox/stencil/
   </tr>
   <tr>
     <td class="tg-rmb8">Time</td>
-    <td class="tg-rmb9">60 - 90 minutes</td>
+    <td class="tg-rmb9">60 minutes</td>
   </tr>
 </table>
 

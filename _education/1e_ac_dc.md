@@ -1,6 +1,6 @@
 ---
 title: "AC vs. DC"
-permalink: /solarbox/ac_dc/
+permalink: /education/energy_ac_dc/
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "THT soldering"
-permalink: /solarbox/tht_soldering/
+permalink: /education/reproduction_tht_soldering/
 ---
 
 <style type="text/css">
@@ -28,10 +28,6 @@ permalink: /solarbox/tht_soldering/
   <tr>
     <td class="tg-rmb8">Time</td>
     <td class="tg-rmb9">2 minutes for each irregular component</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Result</td>
-    <td class="tg-yw42">Tested OK</td>
   </tr>
 </table>
 

@@ -1,6 +1,6 @@
 ---
 title: "Needed Skills"
-permalink: /solarbox/skills/
+permalink: /education/reproduction_skills/
 ---
 
 Für die erfolgreiche Durchführung der nachfolgenden Schrittanleitung sind gewisse Vorkenntnisse notwendig, weche nicht im Detail beschrieben werden.

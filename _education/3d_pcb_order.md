@@ -1,6 +1,6 @@
 ---
 title: "Ordering of PCB and electronics components"
-permalink: /solarbox/pcb_order/
+permalink: /education/reproduction_pcb_order/
 ---
 
 <style type="text/css">

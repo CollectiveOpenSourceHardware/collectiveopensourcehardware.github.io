@@ -1,6 +1,6 @@
 ---
 title: "Reflow Oven"
-permalink: /solarbox/reflow_oven/
+permalink: /education/reproduction_reflow_oven/
 ---
 
 <style type="text/css">
@@ -28,10 +28,6 @@ permalink: /solarbox/reflow_oven/
   <tr>
     <td class="tg-rmb8">Time</td>
     <td class="tg-rmb9">5 - 10 minutes</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Result</td>
-    <td class="tg-yw42">Tested OK</td>
   </tr>
 </table>
 

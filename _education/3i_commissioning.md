@@ -1,6 +1,6 @@
 ---
-title: "Commissioning and testing of PCB hardware"
-permalink: /solarbox/commissioning/
+title: "Commissioning and testing of created PCB hardware"
+permalink: /education/reproduction_commissioning/
 ---
 
 <style type="text/css">

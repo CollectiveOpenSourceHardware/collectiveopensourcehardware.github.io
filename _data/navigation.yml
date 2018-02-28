@@ -6,106 +6,86 @@ main:
   - title: "Mission"
     url: /mission/
 
-  - title: "Solar Box"
-    url: /solarbox/
+  - title: "Open Education"
+    url: /education/
 
-#  - title: "Gallery"
-#    url: /gallery/
+  - title: "Open Hardware"
+    url: /hardware/
 
   - title: "Collaboration"
-    url: /collaborations
+    url: /collaborations/
 
   - title: "About"
     url: /about/
 
 #mission:
 #  - title: Open Source
-#    url: url: /solarbox/system_intro/
-#  - title: Open Education
+#    url: /mission/system_intro/
+#  - title: Fablabs
+#    url: /mission/fablabs/
+#  - title: Circular Economy
+#    url: /mission/circ_economy/
 
-solarbox:
+education:
   - title: Energy Systems
     children:
       - title: "Introduction"
-        url: /solarbox/system_intro/
+        url: /education/energy_system_intro/
       - title: "System Components"
-        url: /solarbox/components/
+        url: /education/energy_components/
       - title: "Fossil vs. Renewable"
-        url: /solarbox/fossil_renewable/
+        url: /education/energy_fossil_renewable/
       - title: "AC vs. DC"
-        url: /solarbox/ac_dc/
+        url: /education/energy_ac_dc/
       - title: "Central vs. Decentral"
-        url: /solarbox/central_decentral/
+        url: /education/energy_central_decentral/
 
   - title: Libre Solar
     children:
       - title: "Overview"
-        url: /solarbox/libre_solar_overview/
+        url: /education/libre_solar_overview/
       - title: "Applications"
-        url: /solarbox/libre_solar_applications/
+        url: /education/libre_solar_applications/
 
   - title: PCB Reproduction
     children:
       - title: "Needed Skills"
-        url: /solarbox/skills/
+        url: /education/reproduction_skills/
       - title: "Roadmap"
-        url: /solarbox/pcb_roadmap/
+        url: /education/reproduction_pcb_roadmap/
       - title: "Tools & Environment"
-        url: /solarbox/environment/
+        url: /education/reproduction_environment/
       - title: "Ordering Process"
-        url: /solarbox/pcb_order/
+        url: /education/reproduction_pcb_order/
       - title: "Creating a Stencil"
-        url: /solarbox/stencil/
+        url: /education/reproduction_stencil/
       - title: "Applying Solder"
-        url: /solarbox/smt_soldering/
+        url: /education/reproduction_smt_soldering/
       - title: "Pick and Place"
-        url: /solarbox/pick_place/
+        url: /education/reproduction_pick_place/
       - title: "Reflow Oven"
-        url: /solarbox/reflow_oven/
+        url: /education/reproduction_reflow_oven/
       - title: "THT Soldering"
-        url: /solarbox/tht_soldering/
+        url: /education/reproduction_tht_soldering/
       - title: "Hardware Test"
-        url: /solarbox/commissioning/
+        url: /education/reproduction_test/
       - title: "Firmware Flashing"
-        url: /solarbox/flashing/
+        url: /education/reproduction_flashing/
 
-#  - title: Box Design
+hardware:
+ - title: Solar Box
+    children:
+      - title: "System Overview"
+        url: /hardware/solarbox_intro/
+
+
+#collaborations:
+#  - title: "Contribution guideline"
 #    children:
-#      - title: "Uni-Pro Kit"
-#        url: /solarbox/unipro/
-
-projects:
-  - title: Open Hardware
-    children:
-      - title: "Libre Solar Box"
-        url: /projects/libresolarbox/
-
-  - title: Open Education Ressource
-    children:
-      - title: "Reproduction Guide - Libre Solar"
-        url: /projects/oer-libresolar/
-      - title: "Open Hardware - Collaboration Guide"
-
-  - title: Collaboration
-    children:
-      - title: "Universities"
-        url: /projects/universities/
-      - title: "Organization"
-        url: /projects/organization
-
-gallery:
-  - title: Workshops
-    children:
-      - title: "Prototype Libre Solar"
-        url: /gallery/ws-prototype-libresolar
-
-collaborate:
-  - title: "development guideline"
-    children:
-      - tile: "general"
-        url: /collaborate/general
-      - title: "Digital Environment"
-        url: /collaborate/digital_environment
+#      - tile: "General"
+#        url: /collaborate/general
+#      - title: "Digital Environment"
+#        url: /collaborate/digital_environment
 
 #      - title: "Testing"
 #        url: /docs/testing/
