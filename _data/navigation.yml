@@ -7,10 +7,10 @@ main:
     url: /mission/
 
   - title: "Open Education"
-    url: /education/
+    url: /education/ibre_solar_intro/
 
   - title: "Open Hardware"
-    url: /hardware/
+    url: /hardware/solarbox_intro/
 
   - title: "Collaboration"
     url: /collaborations/
