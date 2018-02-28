@@ -6,11 +6,12 @@ permalink: /about/
 
 **C**ollective **O**pen **S**ource **H**ardware - cos(h)
 
-We are a collactive of open source hardware enthusiasts located in Hamburg.
+We are a collective of open source hardware enthusiasts located in Hamburg.
 As an official student project group of the [Hamburg University of Applied Science (HAW Hamburg)](https://www.haw-hamburg.de/startseite.html) we are mainly students of Master in Automation and Renewable Energy Systems.
-Our group consists of people from all around the world who find their way in Hamburg.
+Our group consists of people from all around the world who found each other in Hamburg.
+Together we are learning in a interdisciplinary and international way.
 
-Our goal is to contribute building up a sustainable future with openess and love.
+Our goal is to help build a sustainable future with openness and love.
 
 ![cos(h) team during Libre Solar PCB reproduction](/images/team.jpg)
 ![cos(h) team during Libre Solar PCB reproduction](/images/team_1.jpg)
@@ -18,7 +19,7 @@ Our goal is to contribute building up a sustainable future with openess and love
 
 All our content and development is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
-## Imprint / Impressum
+## Imprint
 
 Responsible for the content of the website is the cos(h) team, represented by
 
