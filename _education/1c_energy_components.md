@@ -3,7 +3,13 @@ title: "System Components"
 permalink: /education/energy_components/
 ---
 
-To work with Energy is a complex process as it is possible to convert it into different forms, transport it, store it in forms of chemical energy and use it in various form of end use requirement. Every Energy generation system in the world has main component 1) Source to generate energy/electricity ; 2) Load : Device that consume the energy like TV, Radio, Fridge ; 3) Transmission line which can transfer the energy from sources to loads for example wiring ;  4) Storage to store the energy for later use when it's needed like Li-I battery storage.  For the Stand-alone system is define as shown in below figure.
+To work with Energy is a complex process as it is possible to convert it into different forms, transport it, store it in forms of chemical energy and use it in various form of end use requirement. Every Energy generation system in the world has main component
+1. Source to generate energy/electricity
+2. Load : Device that consume the energy like TV, Radio, Fridge
+3. Transmission line which can transfer the energy from sources to loads for example wiring
+4. Storage to store the energy for later use when it's needed like Li-I battery storage.  
+
+The Stand-alone system is define as shown in below figure.
 
 ![Components of stand alone system](/media_files/stand_alone_pv_systems.png)
 
