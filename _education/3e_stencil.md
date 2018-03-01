@@ -54,7 +54,7 @@ The higher the power of the beam and the longer the beam stays at one place the 
 3. 4% power, 100% speed
 4. 4% power, 50% speed
 
-![laser cutting test with different parameters](/media_files/reproduction_3e_test_cuts.jpg)
+![laser cutting test with different parameters](/media_files/reproduction_3e_test_cuts.png)
 
 In this example the parameter set of test no. 2 was used to laser cut the stencil. In test no. 1 he fine bridges on the left side of the test cut are connected due to too much power. Tests no. 3 and 4 show that the power was not high enough to cut through some spots of the material.
 
