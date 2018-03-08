@@ -1,6 +1,6 @@
 ---
 title: "Commissioning and testing of created PCB hardware"
-permalink: /education/reproduction_commissioning/
+permalink: /education/reproduction_test/
 ---
 
 <style type="text/css">
