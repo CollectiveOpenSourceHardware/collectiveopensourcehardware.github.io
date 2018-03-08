@@ -36,7 +36,7 @@ Open Source Ecology, Community Mitglied im Open Hardware Umfeld
 
 ## Open Hardware Projects
 
-![libre_solar](/images/libresolar_logo_small.png)
+![libre_solar](/images/libresolar_logo.png)
 
 Existing Open Hardware Projects are the fundament of our work. We would like to research in socially relevant projects like energy, mobility, fabrication, architecture and agriculture.
 
