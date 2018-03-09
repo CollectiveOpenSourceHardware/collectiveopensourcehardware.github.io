@@ -7,8 +7,8 @@ permalink: /about/
 **C**ollective **O**pen **S**ource **H**ardware - cos(h)
 
 We are a collective of open source hardware enthusiasts located in Hamburg.
-As an official student project group of the [Hamburg University of Applied Science (HAW Hamburg)](https://www.haw-hamburg.de/startseite.html) we are mainly students of Master in Automation and Renewable Energy Systems.
-Our group consists of people from all around the world who found each other in Hamburg.
+As an official student project group of the [Hamburg University of Applied Science (HAW Hamburg)](https://www.haw-hamburg.de/startseite.html) we are mainly master students of Automation and Renewable Energy Systems.
+Our group consists of people from all over the world who found each other in Hamburg.
 Together we are learning in a interdisciplinary and international way.
 
 Our goal is to help build a sustainable future with openness and love.
