@@ -3,13 +3,13 @@ title: "System Components"
 permalink: /education/energy_components/
 ---
 
-To work with Energy is a complex process as it is possible to convert it into different forms, transport it, store it in forms of chemical energy and use it in various form of end use requirement. Every Energy generation system in the world has main component
+To work with Energy is a complex process as it is possible to convert it into different forms, transport it, store it in forms of chemical energy and use it in various form of end use requirement. Every Energy generation system in the world has the following main components
 1. Source to generate energy/electricity
-2. Load : Device that consume the energy like TV, Radio, Fridge
-3. Transmission line which can transfer the energy from sources to loads for example wiring
-4. Storage to store the energy for later use when it's needed like Li-I battery storage.  
+2. Load : Device that consumes the energy like TV, Radio, Fridge
+3. Transmission line which can transfer the energy from sources to loads, for example wiring
+4. Storage to store the energy for later use when it's needed, like Li-I battery storage.  
 
-The Stand-alone system is define as shown in below figure.
+The Stand-alone system is defined as shown in below figure.
 
 ![Components of stand alone system](/media_files/stand_alone_pv_systems.png)
 
@@ -17,19 +17,19 @@ The Stand-alone system is define as shown in below figure.
 
 ## Energy Source
 
-Source is the origin of energy that can be generate energy by using the Wind, Sun, water and/or from chemical energy stored in Biogas, oil, etc. The major factor that effects on the generation of energy is the efficiency of the Source and cost of investment. The size and the energy generation are depending upon the availability of the resources like Wind & Sun, requirement of the user. In this project, solar PV Panel are used for energy generation sources. This solar panel is made of monocrystalline solar cell. Source can be also the wind turbine as well.
+Source is the origin of energy. Energy can be generated  by using the Wind, Sun, water and/or from chemical energy stored in Biogas, oil, etc. The major factors that effect the generation of energy are the efficiency (of the Source, transmission and whole system) and the costs of investment. The size of the system and the dimension of the energy generation are depending upon the availability of the resources like Wind & Sun, and the requirements of the user. In this project, solar PV Panels are used for as energy generation sources. This solar panel is made of monocrystalline solar cells. Another Source can also be a wind turbine for example.
 
 ## Load
 
-Load is the device or electrical component or portion of circuit that can consume energy. Load should be house hold appliances like bulb, TV, radio, fridge, washing machine or coffee machine. Load is the describe with how much energy they consume in watts. There are different types of loads are connected within the circuit like Resistive loads, Capacitive loads, Inductive loads or combined loads.
+Load is the device or electrical component or portion of circuit that consumes energy. House hold appliances are loads, like bulbs, TV, radio, fridge, washing machine or coffee machine. The energy consumption of a Load is denoted in watts. There are different types of loads within the circuit, like Resistive loads, Capacitive loads, Inductive loads or combined loads.
 
 ## Transmission
 
-Transmission of energy is the why to transfer energy from origin to the consumed device. It should be the wire for electricity or any other electricity conductive material. Transmission can be divided in to different types centralized or decentralized; AC or DC; High, Medium or low voltage; long or short distance transmission system. Efficiency of transmission put key role on losses of energy during transfer. So, for low demand & short distance transmission we should use DC transmission system else for long distance and large amount of power source transfer we should use AC transmission system, because in DC power transmission losses will be exponentially increase with increase in distance. We can say that transmission system is the backbone for energy system. For stand-alone system electrical wirings are the transmission system and it can be AC wiring or DC wiring. All the controllers and the metering devices considered in to the transmission system like charge controller and Switching system.  
+Transmission of energy is the way to transfer energy from the source to the load. The energy is transmitted by wires for electricity or any other electricity conductive material. Transmission can be divided into different types, centralized or decentralized; AC or DC; High, Medium or low voltage; long or short distance transmission system. The efficiency of the transmission plays a key role on losses of energy during transfer. So, for low demand & short distance transmission we should use DC transmission system, whereas for long distance and large amount of power source transfer we should use AC transmission system, because in DC power transmission losses will increase exponentially with the distance. We can say that the transmission system is the backbone for energy systems. For stand-alone systems, electrical wirings are the transmission system and it can be AC wiring or DC wiring. All the controllers and the metering devices are considered into the transmission system like charge controller and Switching system.  
 
 ## Storage
 
-Storage is the technique to store additional energy generated by sources for specific time and when energy require then we can reuse this energy from storage system. Energy storage can be battery storage as a chemical energy, Gas storage as a different state of energy. According to technology we can store the energy for long term or short term. In stand-alone system, generally used LiFePO4 battery as a storage system, because this type of storage is simple in technology, cheaper then other techniques and we can save in smaller form as requirement.
+Storage is the technique to store additional energy generated by sources for specific time. When the energy is required we can reuse this energy from the storage system. Energy storages can be battery storages as a chemical energy, Gas storage as a different state of energy. According to technology we can store the energy for long term or short term. In stand-alone systems, generally  LiFePO4 batteries are used as a storage system, because this type of storage is simple in technology, cheaper than other techniques and the storages are compact in form.
 
 ## References
 
