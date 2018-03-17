@@ -101,9 +101,9 @@ Photovoltaics has a long history. It began in 1839 with observations carried out
 
 It is a PV system that has a battery to store the extra energy.
 
-Advantage: Can put this excess electricity in batteries. Storing the extra energy.
+Advantage: Can put this excess electricity in batteries. Storing the extra energy, which allows self-supply with electrical energy. So you can use it perfectly in remote locations / rural areas with no grid connection.
 
-Disadvantages: Extra costs, and Energy storage typically comes with significant losses. The Figure below is possible to see the an example of a system.
+Disadvantages: Extra costs, energy storage typically comes with losses. In the Figure below you can see an example of a system.
 
 ![Energy system](/media_files/stand_alone_pv_systems.png)
 
@@ -111,13 +111,9 @@ Disadvantages: Extra costs, and Energy storage typically comes with significant 
 
 #### Stand-alone hybrid systems
 
-There are the same bases from the Stand alone, but in additional has an extra generator, that can be a diesel generator, wind turbines, etc.
+Since batteries can only store a limited amount of energy, it is possible to use a backup generator (i.e. diesel), if the weather conditions prevent the PV or wind generators from generating energy
 
-How batteries can only store a certain amount of energy, and during cloudy times or extra phenomenal. It is possible to use the backup generator.
-
-Advantage: can be cheaper than extending power lines in certain remote areas. Become energy self-sufficient. Disadvantages: Extra costs.
-
-The Figure below is possible to see the an example of a system.
+The Figure below shows an example of a stand-alone hybrid system.
 
 ![Energy system](/media_files/stand_alone hybrid_systems.jpg)
 
@@ -125,13 +121,13 @@ The Figure below is possible to see the an example of a system.
 
 #### Grid connected PV-systems
 
-It is a PV system that is directly connected to the utility power grid.
+Grid connected PV-systems are directly connected to the utility power grid.
 
 Advantages: They are generally cheaper and simpler to install.
 
-Disadvantages: You are not self-sufficient. In externs situations you don't have self-control.
+Disadvantages: The energy supply depends on the grid and the power transmission infrastructure.
 
-The Figure below is possible to see the an example of a system.
+The Figure below shows an example of a stand-alone hybrid system.
 
 ![Energy system](/media_files/grid_connected_pv_systems.jpg)
 
