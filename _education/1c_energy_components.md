@@ -3,13 +3,13 @@ title: "System Components"
 permalink: /education/energy_components/
 ---
 
-To work with Energy is a complex process as it is possible to convert it into different forms, transport it, store it in forms of chemical energy and use it in various form of end use requirement. Every Energy generation system in the world has the following main components
+To work with Energy is a complex process as it is possible to convert it into different forms, transport it, store it in forms of chemical energy and use it in various forms of end use requirement. Every energy generation system in the world has the following main components:
 1. Source to generate energy/electricity
 2. Load : Device that consumes the energy like TV, Radio, Fridge
-3. Transmission line which can transfer the energy from sources to loads, for example wiring
+3. Transmission lines which transfer the energy from sources to loads
 4. Storage to store the energy for later use when it's needed, like Li-I battery storage.  
 
-The Stand-alone system is defined as shown in below figure.
+The Stand-alone system is defined as shown in the figure below:
 
 ![Components of stand alone system](/media_files/stand_alone_pv_systems.png)
 
@@ -17,7 +17,7 @@ The Stand-alone system is defined as shown in below figure.
 
 ## Energy Source
 
-Source is the origin of energy. Energy can be generated  by using the Wind, Sun, water and/or from chemical energy stored in Biogas, oil, etc. The major factors that effect the generation of energy are the efficiency (of the Source, transmission and whole system) and the costs of investment. The size of the system and the dimension of the energy generation are depending upon the availability of the resources like Wind & Sun, and the requirements of the user. In this project, solar PV Panels are used for as energy generation sources. This solar panel is made of monocrystalline solar cells. Another Source can also be a wind turbine for example.
+Source is the origin of energy. Energy can be generated  by using the Wind, Sun, water and/or from chemical energy stored in Biogas, oil, etc. The major factors that effect the generation of energy are the efficiency (of the Source, transmission and whole system) and the costs of investment. The size of the system and the dimension of the energy generation are depending upon the availability of the resources like Wind and Sun, and the requirements of the user. In this project, solar PV Panels are used as energy generation sources. This solar panel is made of monocrystalline solar cells.
 
 ## Load
 
@@ -25,7 +25,7 @@ Load is the device or electrical component or portion of circuit that consumes e
 
 ## Transmission
 
-Transmission of energy is the way to transfer energy from the source to the load. The energy is transmitted by wires for electricity or any other electricity conductive material. Transmission can be divided into different types, centralized or decentralized; AC or DC; High, Medium or low voltage; long or short distance transmission system. The efficiency of the transmission plays a key role on losses of energy during transfer. So, for low demand & short distance transmission we should use DC transmission system, whereas for long distance and large amount of power source transfer we should use AC transmission system, because in DC power transmission losses will increase exponentially with the distance. We can say that the transmission system is the backbone for energy systems. For stand-alone systems, electrical wirings are the transmission system and it can be AC wiring or DC wiring. All the controllers and the metering devices are considered into the transmission system like charge controller and Switching system.  
+Transmission of energy is the way to transfer energy from the source to the load. The energy is transmitted by wires for electricity or any other electricity conductive material. Transmission can be divided into different types, centralized or decentralized; AC or DC; high, medium or low voltage; long or short distance transmission system. The efficiency of the transmission plays a key role on losses of energy during transfer. We can say that the transmission system is the backbone for energy systems. For stand-alone systems, electrical wirings are the transmission system and it can be AC wiring or DC wiring. All the controllers and the metering devices are considered into the transmission system like charge controller and switching system.  
 
 ## Storage
 
