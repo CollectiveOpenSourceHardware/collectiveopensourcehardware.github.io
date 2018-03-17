@@ -49,7 +49,7 @@ There are many ways of generating electric energy/power. The most commonly used 
 - Combustion (coal, oil, gas, diesel, wood): Burning the ressources heats water, which turns into hot gas under high pressure. It is channeled to a steam turbine and moves it. The radial movement of the turbine moves a generator. [3]
 
 - Water energy: Creating electric energy from moving water is possible in the following different ways:
-    - Hydro power - using falling and moving water to produce motion which turns a turbine. 
+    - Hydro power - using falling and moving water to produce motion which turns a turbine.
     - Tidal Stream Generator - using water movement of tides to turn a turbine (like an underwater wind turbine).
     - Ocean thermal energy conversion - OTEC uses a turbine driven by water moving between cold deep water and warmer water above. [3]
 
