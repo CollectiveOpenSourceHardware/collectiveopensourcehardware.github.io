@@ -10,3 +10,9 @@ At constant / DC current, the current between two poles flows always in the same
 ![AC vs. DC Current](/media_files/AC_DC_current_graph.png/?style=centerme)
 
 The AC current is mostly used for transporting electricity to consumers and for AC motors. Most of the electronic devices which are used today use DC current, e.g. laptops and mobile phones.
+
+AC:
+power, reactive power, active power, apparent power,
+
+DC:
+advantages, safety, limits,

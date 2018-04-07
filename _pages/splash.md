@@ -23,7 +23,7 @@ feature_row:
     alt: "Libre Solar Reproduction"
     title: "Open Education - <br> Libre Solar"
     excerpt: "Step-by-step guide for renewable energy hardware. <br>"
-    url: "/education/libre_solar_overview/"
+    url: "/education/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: media_files/libre_solar_box_layout.png
