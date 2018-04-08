@@ -3,6 +3,8 @@ title: "Energy Systems Introduction"
 permalink: /education/energy_system_intro/
 ---
 
+## Intro
+
 Since prehistory, when humanity discovered fire to warm up and roast food, through the Middle Ages in which populations built windmills to grind the wheat, until the modern era in which nations can get electricity splitting the atom. Man has sought endlessly for energy sources.
 
 But what is energy? We use the word so often without knowing what it really means.
@@ -11,6 +13,8 @@ As a scientific term, the word energy itself was first introduced to mechanics i
 Beside the scientific meaning which is defined by the possibility to measure and validate the signals, the word energy is also used in a metaphysical or spiritual context. In this OER we are focusing on the rational scientific facts.
 
 The total energy of a physical system can be subdivided and classified into **potential** energy, **kinetic** energy, or combinations of the two in various ways. Kinetic energy is determined by the movement of an object -- or the composite motion of the components of an object - and potential energy reflects the potential of an object to have motion, and generally is a function of the position of an object within a field or may stored in the field itself. [Quelle](https://en.wikipedia.org/wiki/Energy#Forms)
+
+## Forms of Energy
 
 Beside the fundamental differentiation in potential and kinetic energy there are **four different types** of energy we have in our everyday life.
 
@@ -40,7 +44,7 @@ Mechanical energy is the energy of physical movement, such as moving air or wate
 
 Electrical energy involves the movement of electric current through wires. Electrical energy is a very useful form of energy because it can perform many functions. Ultimately, most electrical energy or electricity also ends up as thermal energy in the form of sensible heat. Some devices such as electric heaters convert the energy directly; other devices such as motors convert electricity to mechanical energy which eventually becomes heat. The trick to optimizing electricity use is to maximize the amount of work done by electricity before it is lost as heat. Typically, this also involves optimizing the use of mechanical energy. [5]
 
-### Energy Transformation
+## Energy Transformation
 The most important information about energy is that it can't be created or loose. It just can transform its status from one form to another.
 For example is a bycicle generator transforming mechanical energy in form of the rotation of a wheel into electrical energy for the lamp to have light at night. Or your body is transforming biochemical energy from your muscle into mechanical energy to run the pedal of your bike.
 A fire turns chemical energy saved in wood into thermal energy which is heating up his environment.
