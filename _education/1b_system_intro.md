@@ -19,7 +19,7 @@ The total energy of a physical system can be subdivided and classified into **po
 Beside the fundamental differentiation in potential and kinetic energy there are **four different types** of energy we have in our everyday life.
 
 ### Chemical Energy
-![chemical energy](/media_files/energy_intro_chemical_energy.svg)
+![chemical energy](/media_files/energy_intro_chemical_energy.png)
 
 Chemical energy is the energy which helps to "glue" atoms together in those clusters called molecules, or chemical compounds. Of special interest to us are substances such as natural gas, or propane, or oil that are capable of releasing some of that energy. When we burn these fuels, we unglue some of the atoms from each other, liberating the chemically-bound energy that held them together. In the process, the chemical energy is changed in form to high temperature heat energy, a form well suited to doing many different kinds of work. This process takes place every time we flick butane lighter. [5]
 
