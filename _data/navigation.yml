@@ -55,21 +55,21 @@ education:
         url: /education/reproduction_pcb_roadmap/
       - title: "Tools & Environment"
         url: /education/reproduction_environment/
-      - title: "Ordering Process"
+      - title: "Step 1 - Ordering Process"
         url: /education/reproduction_pcb_order/
-      - title: "Creating a Stencil"
+      - title: "Step 2 - Creating a Stencil"
         url: /education/reproduction_stencil/
-      - title: "Applying Solder"
+      - title: "Step 3 - Applying Solder"
         url: /education/reproduction_smt_soldering/
-      - title: "Pick and Place"
+      - title: "Step 4 - Pick and Place"
         url: /education/reproduction_pick_place/
-      - title: "Reflow Oven"
+      - title: "Step 5 - Reflow Oven"
         url: /education/reproduction_reflow_oven/
-      - title: "THT Soldering"
+      - title: "Step 6 - THT Soldering"
         url: /education/reproduction_tht_soldering/
-      - title: "Hardware Test"
+      - title: "Step 7 - Hardware Test"
         url: /education/reproduction_test/
-      - title: "Firmware Flashing"
+      - title: "Step 8 - Firmware Flashing"
         url: /education/reproduction_flashing/
 
 hardware:

@@ -8,7 +8,7 @@ Our aim is that everyone is able to understand and rebuild this open hardware pr
 Due to the fabrication complexity it will not be possible for everyone to build this example at home. So we show the concept of a fablab where we can build up together, let's say from do-it-yourself (DIY) to do-it-together (DIT).
 So this OER should also provide a documentation to run a workshop in a fablab, school, university or any other public place which has access to the needed tools.
 
-The first chapters will describe **energy systems** in general. Afterwards, the **Libre Solar ecosystem** will be explained in more detail, followed by a detailed **step-by-step guide** how to reproduce PCBs using the Libre Solar boards as an example.
+The first chapters will describe **energy systems** in general. Afterwards, the **Libre Solar ecosystem** will be explained in more detail, followed by a detailed **step-by-step guide** how to reproduce an electrical circuit board using the Libre Solar project as an example.
 
 ### Introducation to Energy systems
 First to understand how to rebuild an solarcharger we want to introduce you the topic of energy systems. With focus on electrical energy system we explain how the current comes out of the socket? What are the differences between fossil based energy ressources and renewable energy ressources or the differences between a central controlled or decentral controlled energy grid systems.
