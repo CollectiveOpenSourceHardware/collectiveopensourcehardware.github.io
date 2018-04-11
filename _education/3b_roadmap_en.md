@@ -1,7 +1,7 @@
----
-title: "Roadmap of the Reproduction Guide"
-permalink: /education/reproduction_pcb_roadmap/
----
+#---
+#title: "Roadmap of the Reproduction Guide"
+#permalink: /education/reproduction_pcb_roadmap/
+#---
 
 An electrical board consists of two basic modules
 - circuit board
