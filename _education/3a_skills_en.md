@@ -24,7 +24,8 @@ Do not worry, for the step-by-step guide you do not need profound programming sk
 - Adjustment of configuration parameters <br>  (the software can be adapted to use different battery types)
 - Flashing the Firmware in the embedded µC (Microcontroler)
 
-## Basic Knowledege in Electrical Enginnering ![ns_eng](/media_files/needed_skill_electrical.png)
+## Basic Knowledege in Electrical Enginnering
+![ns_eng](/media_files/needed_skill_electrical.png)
 
 You should have a basic understanding of electrical behavior. What is current, what is voltage and what does electrical resistance mean? We will not explicitly answer these questions. An introduction to that topic can be found in the following Wikipedia entry ![Electrical Network](https://en.wikipedia.org/wiki/Electrical_network).
 You will need the electrical skills for
