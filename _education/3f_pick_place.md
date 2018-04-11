@@ -3,8 +3,6 @@ title: "![icon_equip](/media_files/steps_equip.png) Step 4 - Pick and Place"
 permalink: /education/reproduction_pick_place/
 ---
 
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
 .tg td{font-family:Arial, sans-serif;font-size:16px;padding:2px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
@@ -47,7 +45,9 @@ Here you see the different between the PCB with soldermask but without electrica
 ### Reading the PCB layout
 Since there is a long list of components to be placed, It is easier to organize them in orderly fashion, for ex: starting with resistors of one class and then the next by referring the Items list as show below.
 
-![Reading the Blue print of PCB layout](/media_files/pick_place_bom.jpg)         ![Reading the Blue print of PCB layout](/media_files/pick_place_blueprint.jpg)
+![Reading the Blue print of PCB layout](/media_files/step_bom.jpg)
+
+![Reading the Blue print of PCB layout](/media_files/step_equip.jpg.jpg)
 
 
 ### Placing the components

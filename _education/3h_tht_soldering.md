@@ -37,18 +37,19 @@ Here you see the PCB with and without THT (**T**hrough **H**ole **T**echnique) p
 
 <iframe src="https://h5p.org/h5p/embed/219827" width="1091" height="614" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Identifying the Irregularities
+## Identifying the Irregularities
 In the picture shown below the identified displaced components will lead to component malfunction and short-circuits. The magnifying lens is used to thoroughly check other parts on the board for irregularities.
 
 ![Common displaced electrical contacts](/media_files/zooming in BMS.jpg)
 
-### Removing the Irregularities with Heat gun
+## Removing the Irregularities with Heat gun
 Using the Heat gun, the soldering is removed on the applied area. Also , soldering wick can be used to de-solder the joints.
 
 ![Using Heat gun](/media_files/heatgun.jpg)
+
 ![re-soldering](/media_files/re-seating.jpg)
 
-### Soldering with rosin core and soldering wick
+## Soldering with rosin core and soldering wick
 Now that the components are placed correctly and soldered with the help of rosin core also Soldering wick can be used to avoid contacts between successive pins.
 ![re-soldering](/media_files/soldering_rosing_core.jpg)
 

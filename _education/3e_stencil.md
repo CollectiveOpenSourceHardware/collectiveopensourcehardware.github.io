@@ -3,8 +3,6 @@ title: "![icon_stencil](/media_files/steps_stencil.png) Step 2 - Creating a Sten
 permalink: /education/reproduction_stencil/
 ---
 
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
 .tg td{font-family:Arial, sans-serif;font-size:16px;padding:2px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
@@ -38,6 +36,8 @@ permalink: /education/reproduction_stencil/
     Your browser does not support the video tag.
 </video>
 
+##
+
 The following steps you should do in a fablab where you have the materials and machines.
 
 Before fitting all the small electronic parts on to the PCB we need to apply solder first. In this tutorial you learn how to create a reusable stencil which is used later to spread solder on to the whole board.
@@ -46,7 +46,7 @@ Instead of applying solder manually to every solder joint we use a laser cutter 
 
 ![fitting the stencil onto the PCB](/media_files/stencil_fit.jpg)
 
-### Preparing the laser cutter
+## Preparing the laser cutter
 
 A laser cutter uses a focused high power laser to cut materials or engrave surfaces. Similar to a 3D printer or a CNC machine the laser beam is moved along two axes by a motion controller. There are software tools that generate motion commands from different file formats, in our case we use the open source software [VisiCut](http://hci.rwth-aachen.de/visicut-download) to use the laser cutter *Epilog Zing*.
 

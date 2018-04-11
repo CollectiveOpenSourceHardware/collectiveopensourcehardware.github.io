@@ -17,7 +17,7 @@ Further information you find in following [wikipedia article](https://en.wikiped
 
 The two components of PCB and electric parts must be combined together to get a working board.
 This combination process is shown in the following steps.
-The production of the PCB without the electrical parts is not part of this step-by-step guide. It is obtained externally from a manufacturer. How to order a blank PCB is explained under [Ordering Process](/education/pcb_order).
+The production of the PCB without the electrical parts is not part of this step-by-step guide. It is obtained externally from a manufacturer. How to order a blank PCB is explained under [Ordering Process](/education/reproduction_pcb_order/).
 
 ## What you get at the end of this reproduction guide
 The result of this reproduction guide is MPPT solarcharger, a PCB for running a electrical solar power system.

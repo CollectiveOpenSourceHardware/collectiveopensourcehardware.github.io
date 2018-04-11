@@ -17,15 +17,15 @@ A decentralized system is a system where sources are located near to the loads a
 
 The criteria for the comparison of Centralized vs Decentralized systems are presented below. They involve economies of scale studies and consider the most cost-effective system [3]
 
-I)	Economies of scale: the advent of centralized systems like steam turbines made it possible to increase the size of the turbines while decreasing the marginal cost of electricity production. Decentralized systems are more expensive and require higher costs for maintenance.
+1. Economies of scale: the advent of centralized systems like steam turbines made it possible to increase the size of the turbines while decreasing the marginal cost of electricity production. Decentralized systems are more expensive and require higher costs for maintenance.
 
-II)	Energy efficiency: Centralized systems achieve higher efficencies through larger facilities than Decentralized systems if you compare them by their use of primary energy and the generated energy.
+2. Energy efficiency: Centralized systems achieve higher efficencies through larger facilities than Decentralized systems if you compare them by their use of primary energy and the generated energy.
 
-III)	Innovation in electricity transmission: Alternating current is usually used to transmit electricity over long distances without a significant loss or reduction. For decentralized systems we can use DC and AC transmission to easily transmit power in short range.  
+3. Innovation in electricity transmission: Alternating current is usually used to transmit electricity over long distances without a significant loss or reduction. For decentralized systems we can use DC and AC transmission to easily transmit power in short range.  
 
-IV)	Reliability: to increase the reliability at the customer's end, large electricity production facilities were connected to the transmission networks, but if a damage in the main transmission line occurs, it leads to power outage. Whereas in decentralized systems, user get the power from various generation sources, so power outage problems are negligible.
+4. Reliability: to increase the reliability at the customer's end, large electricity production facilities were connected to the transmission networks, but if a damage in the main transmission line occurs, it leads to power outage. Whereas in decentralized systems, user get the power from various generation sources, so power outage problems are negligible.
 
-V)	Environmental constraints: the use of transmission networks made it possible to relocate the generation facilities outside the city centers thus removing pollution due to exhaust from coal fire plants. Clearly,the way how centralized power plants produce energy  destroys the environment in many ways. The climate suffers through the exponential increase of CO2-pollution. Moreover complete areas all over the world are ruined through the mining and fracking of ressources. In decentralized systems, mostly renewable power generation sources are used which are way more environmental friendly (no emissions, no waste, no exhaust gases, no need of ressources) than traditional power generation by centralized systems.
+5. Environmental constraints: the use of transmission networks made it possible to relocate the generation facilities outside the city centers thus removing pollution due to exhaust from coal fire plants. Clearly,the way how centralized power plants produce energy  destroys the environment in many ways. The climate suffers through the exponential increase of CO2-pollution. Moreover complete areas all over the world are ruined through the mining and fracking of ressources. In decentralized systems, mostly renewable power generation sources are used which are way more environmental friendly (no emissions, no waste, no exhaust gases, no need of ressources) than traditional power generation by centralized systems.
 
 ### Photovoltaic
 

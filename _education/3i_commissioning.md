@@ -33,7 +33,7 @@ permalink: /education/reproduction_test/
 
 Before you can flash the board, you should perform basic checks of the soldering process and the hardware of the board.
 
-### Solder bridges
+## Solder bridges
 
 You should carefully check if there are no solder bridges between any pins. Especially the microcontroller with its small pin pitch is susceptible to have some unwanted connections between pins.
 
