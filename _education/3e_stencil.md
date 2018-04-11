@@ -27,9 +27,16 @@ permalink: /education/reproduction_stencil/
   </tr>
   <tr>
     <td class="tg-rmb8">Time</td>
-    <td class="tg-rmb9">60 minutes</td>
+    <td class="tg-rmb9"circa 60 minutes</td>
   </tr>
 </table>
+
+<video width="555" height="400" align="center" controls>
+  <source src="/media_files/videos/Stencil.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+The following steps you should do in a fablab where you have the materials and machines.
 
 Before fitting all the small electronic parts on to the PCB we need to apply solder first. In this tutorial you learn how to create a reusable stencil which is used later to spread solder on to the whole board.
 
@@ -68,4 +75,4 @@ The stencil can be created by exporting an image in SVG file format from the KiC
 
 The new file is a vectorized graphic in SVG file format. You can open and modify the file if needed with image processing tools like [Gimp](https://www.gimp.org) or [Inkscape](https) Use the parameter settings obtained from the test cuts and create your stencil. Small spots where the laser didn't cut through the material can be repaired using a knife.
 
-![Finished stencil](/media_files/stencil_finished.jpg)
+<!--![Finished stencil](/media_files/stencil_finished.jpg)-->

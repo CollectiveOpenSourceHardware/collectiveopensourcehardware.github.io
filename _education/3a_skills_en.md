@@ -8,6 +8,8 @@ In addition to general computer skills this also includes basic knowledge in pro
 The following points give you an overview of the prior knowledge needed.
 
 ## General Computer Skills
+![ns_com](/media_files/needed_skills_computer.png)
+
 Dealing with a computer is almost a common knowledge in our time. Some people can handle it better, some can handle it worse.
 For the step-by-step instructions you need computer skills for
 - Working with the file explorer
@@ -15,18 +17,23 @@ For the step-by-step instructions you need computer skills for
 - Knowledge of standard interfaces (like USB-port, LAN)
 
 ## Basic Knowledge in C/C++
+![ns_c](/media_files/needed_skill_c.png)
+
 The programming languages ​​C and C ++ are the most commonly used programming languages. Especially in hardware-related programming which means to control physical systems by programming these programming languages ​​are used.
 Do not worry, for the step-by-step guide you do not need profound programming skills. However you should be able to understand the basic syntax of C and C++ to be able to read and adapt some code blocks.
 - Adjustment of configuration parameters <br>  (the software can be adapted to use different battery types)
 - Flashing the Firmware in the embedded µC (Microcontroler)
 
-## Basic Knowledege in Electrical Enginnering
+## Basic Knowledege in Electrical Enginnering ![ns_eng](/media_files/needed_skill_electrical.png)
+
 You should have a basic understanding of electrical behavior. What is current, what is voltage and what does electrical resistance mean? We will not explicitly answer these questions. An introduction to that topic can be found in the following Wikipedia entry ![Electrical Network](https://en.wikipedia.org/wiki/Electrical_network).
 You will need the electrical skills for
 - understanding the behaviour of the total system
 - for measuring of the finished PCB to perform a functional test
 
 ## Practical Work with electrical components
+![ns_mech](/media_files/needed_skill_mechanical.png)
+
 The handling of electrical components differs from other handcraft activities in the electric current that comes into play and this can be dangerous if it is handled incorrectly.
 The electric boards which are reproduced with the provided step-by-step guide have a low current flow as long as no solar panels are connected. Anyway, we want to point out the 5 safety rules of electrical engineering.
 ### 5 safety rules:

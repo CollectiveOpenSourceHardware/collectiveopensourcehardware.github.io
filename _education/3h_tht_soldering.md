@@ -27,24 +27,25 @@ permalink: /education/reproduction_tht_soldering/
   </tr>
   <tr>
     <td class="tg-rmb8">Time</td>
-    <td class="tg-rmb9">2 minutes for each irregular component</td>
+    <td class="tg-rmb9">circa 2 minutes for each irregular component</td>
   </tr>
 </table>
 
 **Caution:** use handgloves during the time of usage.
 
-## Identifying the Irregularities
+### Identifying the Irregularities
 In the picture shown below the identified displaced components will lead to component malfunction and short-circuits. The magnifying lens is used to
 thoroughly check others parts on the board for irregularities.
 
 ![Common displaced electrical contacts](/media_files/zooming in BMS.jpg)
 
-## Removing the Irregularities with Heat gun
+### Removing the Irregularities with Heat gun
 Using the Heat gun, the soldering is removed on the applied area. Also , soldering wick can be used to de-solder the joints.
 
-![Using Heat gun](/media_files/heatgun.jpg) ![re-soldering](/media_files/re-seating.jpg)
+![Using Heat gun](/media_files/heatgun.jpg)
+![re-soldering](/media_files/re-seating.jpg)
 
-## Soldering with Rosin core and soldering wick
+### Soldering with Rosin core and soldering wick
 Now that the components are placed correctly and soldered with the help of rosin core also Soldering wick can be used to avoid contacts between successive pins.
 ![re-soldering](/media_files/soldering_rosing_core.jpg)
 

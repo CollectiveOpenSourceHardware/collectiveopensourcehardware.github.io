@@ -27,13 +27,13 @@ permalink: /education/reproduction_test/
   </tr>
   <tr>
     <td class="tg-rmb8">Time</td>
-    <td class="tg-rmb9"><30 minutes (if you were careful dring PCB production)</td>
+    <td class="tg-rmb9">circa 30 minutes (if you were careful dring PCB production)</td>
   </tr>
 </table>
 
 Before you can flash the board, you should perform basic checks of the soldering process and the hardware of the board.
 
-## Solder bridges
+### Solder bridges
 
 You should carefully check if there are no solder bridges between any pins. Especially the microcontroller with its small pin pitch is susceptible to have some unwanted connections between pins.
 
@@ -47,7 +47,7 @@ If you identify any solder bridges, use the desoldering braid to remove the brid
 
  For lead-free solder, higher temperature settings might be needed. Adding a little bit of leaded solder makes it easier to remove the solder bridges.
 
-## Power supply testing
+### Power supply testing
 
 After all solder bridges have been removed and you checked that all parts in the PCB are present, you can start to power the PCB.
 

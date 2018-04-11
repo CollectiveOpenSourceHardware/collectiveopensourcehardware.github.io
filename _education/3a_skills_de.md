@@ -1,7 +1,7 @@
----
+<!-- ---
 title: "Needed Skills"
 permalink: /education/reproduction_skills/
----
+--- -->
 
 Für die erfolgreiche Durchführung der nachfolgenden Schrittanleitung sind gewisse Vorkenntnisse notwendig, weche nicht im Detail beschrieben werden.
 Dazu gehören neben allgemeinen Computerkenntnissen/ Umgang mit einem Computer auch Grundkenntnisse im Programmieren und der Elektrotechnik.

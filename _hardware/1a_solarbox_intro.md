@@ -21,6 +21,8 @@ CAD model of the solarbox V0.2 designed in [FreeCAD](https://www.freecadweb.org/
 
 Finshed assembly of the solarbox V0.2 with wood housing and acrylic glas on one site.
 
+ 
+
 ## Specifications:
 - Maximal Voltage Input = **55 V**
 - Maximal Power Input = **300 Wp**

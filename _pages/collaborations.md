@@ -14,6 +14,9 @@ The Open Education Ressource (OER) of the Libre Solar Box Reproduction was suppo
 
 One goal is to integrate the developed system components also into seminars and project works at different universities.
 
+![HAW](/images/logo-haw-2017.png)
+We are an official student group of the Hamburg University of Applied Science (HAW Hamburg).
+
 ## Fab Labs
 
 ![fablab_stpauli](/images/fabulous_logo_small.png)

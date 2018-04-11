@@ -3,6 +3,34 @@ title: "Flashing the firmware"
 permalink: /education/reproduction_flashing/
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
+.tg td{font-family:Arial, sans-serif;font-size:16px;padding:2px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
+.tg .tg-rmb8{font-weight:bold;vertical-align:top; text-align:right;}
+.tg .tg-rmb9{vertical-align:top}
+.tg .tg-yw4l{font-weight:bold;vertical-align:top; text-align:right;}
+.tg .tg-yw42{vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+    <td class="tg-yw4l">Material</td>
+    <td class="tg-yw42"></td>
+  </tr>
+  <tr>
+    <td class="tg-rmb8">Tools</td>
+    <td class="tg-rmb9">Computer, USB-cable, Nucleo board</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Needed Skills<br></td>
+    <td class="tg-yw42">Basic electronics knowledge, computer skills</td>
+  </tr>
+  <tr>
+    <td class="tg-rmb8">Time</td>
+    <td class="tg-rmb9">circa 30 minutes</td>
+  </tr>
+</table>
+
 There are basically two ways to upgrade the firmware of the Libre Solar hardware. For development we recommend to purchase an STM Nucleo board with integrated ST-Link/V2 debug adapter. The boards are very cheap and allow not only firmware upgrade but also debugging via the serial wire debug (SWD) interface. If you want to upgrade to an already tested new firmware version, you might aswell use the USB interface which does not need any additional hardware except for a Micro USB cable (the same as used for smart phones).
 
 For both options, you need to install [PlatformIO](http://platformio.org/) (or a different toolchain) and [download the software source code from github](https://github.com/LibreSolar) first.

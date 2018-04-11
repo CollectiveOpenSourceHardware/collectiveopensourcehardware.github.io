@@ -49,10 +49,10 @@ education:
 
   - title: PCB Reproduction
     children:
+      - title: "Introduction"
+        url: /education/guide_intro/
       - title: "Needed Skills"
         url: /education/reproduction_skills/
-      - title: "Roadmap"
-        url: /education/reproduction_pcb_roadmap/
       - title: "Tools & Environment"
         url: /education/reproduction_environment/
       - title: "Step 1 - Ordering Process"
@@ -71,6 +71,8 @@ education:
         url: /education/reproduction_test/
       - title: "Step 8 - Firmware Flashing"
         url: /education/reproduction_flashing/
+      - title: "Finished"
+        url: /education/end_pcb/
 
 hardware:
  - title: Solar Box
