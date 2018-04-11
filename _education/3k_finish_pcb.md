@@ -5,7 +5,7 @@ permalink: /education/end_pcb/
 
 After the assembly of the PCB and the flahing of the firmware you have now the ready to use Libre Solar MPPT solarcharger.
 
-[finished_pcb](/media_files/finish_pcb.png)
+![finished_pcb](/media_files/finish_pcb.png)
 
 ## What you can do with it now?
 
