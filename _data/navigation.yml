@@ -78,7 +78,7 @@ hardware:
  - title: Solar Box
    children:
       - title: "System Overview"
-        url: /hardware/
+        url: /hardware/solarbox_intro/
 
 
 #collaborations:

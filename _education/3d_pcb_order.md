@@ -1,9 +1,7 @@
 ---
-title: "[icon_order](/media_files/steps_order.png) Step 1 - Ordering of PCB and electronic components"
+title: "![icon_order](/media_files/steps_order.png) Step 1 - Ordering of PCB and electronic components"
 permalink: /education/reproduction_pcb_order/
 ---
-
-![icon_order](/media_files/steps_order.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
