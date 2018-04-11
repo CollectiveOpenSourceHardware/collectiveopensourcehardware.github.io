@@ -68,3 +68,5 @@ Unfortunately, a short circuit cannot be detected easily with a multimeter. You 
 If existing, you can look at the PCB using a thermal camera to detect hot spots with short circuits.
 
 ![Testing of short circuits](/media_files/testing_short_circuit.jpg)
+
+If there is a short circuit you see a red area in the thermal camera. This indicates a high current flow which let the PCB getting hot.

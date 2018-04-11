@@ -11,10 +11,12 @@ permalink: /collaborations/
 By collaboration with universities and research institutes, we would like to promote the ideas of Open Hardware and Circular Economy also in scientific contexts.
 
 The Open Education Ressource (OER) of the Libre Solar Box Reproduction was supported and funded by the [Hamburg Open Online University (HOOU)](https://www.hoou.de/).
+We are represented as a [HOOU team](https://www.hoou.de/announcements/cos-h-collective-open-source-hardware-an-der-haw-hamburg-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1).
 
 One goal is to integrate the developed system components also into seminars and project works at different universities.
 
 ![HAW](/images/logo-haw-2017.png)
+
 We are an official student group of the Hamburg University of Applied Science (HAW Hamburg).
 
 ## Fab Labs
