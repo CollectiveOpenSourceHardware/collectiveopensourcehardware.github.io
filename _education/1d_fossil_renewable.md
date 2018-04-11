@@ -5,7 +5,7 @@ permalink: /education/energy_fossil_renewable/
 
 Energy is today used mainly for transport, heat and electrical energy. As we know energy makes our lives easier. Convenient life and high living standards involve enormous energy needs, which is nowadays not only a technical but economical and political challenge. Until now the main energy source is fossil based. Fossil fuels include mined coal, sulfur and hydrocarbons - petroleum or natural gas - which are the remains of degraded plants and animals. This type of energy was accumulated in hundreds of millions of years, mankind overwhelms it in a few hundred years. This is shown in the following picture.
 
-![World primary energy Consumption](/media_files/global-primary-energy-consumption.png?style=centerme)
+![World primary energy Consumption](/media_files/global-primary-energy-consumption.png)
 
 All naturally occurring energy carriers are considered to be primary energy sources. For example electric energy and gas / oil are secondary energy carriers which is achieved from primary sources.
 
@@ -26,7 +26,7 @@ Advantage: Can put this excess electricity in batteries. Storing the extra energ
 
 Disadvantages: Extra costs, energy storage typically comes with losses. In the Figure below you can see an example of a system.
 
-![Energy system](/media_files/stand_alone_pv_systems.png)
+![Energy system](/media_files/stand_alone_pv_systems_1.jpg)
 
 [Figure 3 - Stand-alone PV-systems] [1]
 

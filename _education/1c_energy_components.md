@@ -14,7 +14,7 @@ Energy can not be created or destroyed. Which means, that you always convert one
 
 The traditional electricity value chain has been considered to consist of five links: fuel/energy source, generation, transmission, distribution and customer-side energy service as shown in Figure 1. [2]
 
-![Energy system](/media_files/electric_generation_flow.jpg)
+![Energy system](/media_files/electric_generation_flow_1.jpg)
 
 [Figure 1 : Electric generation flow]....Visited: 24.02.2018 <http://sowetoinvestmentcorporation.com/Electricity___Appliances.html>
 
@@ -43,7 +43,7 @@ There are many ways of generating electric energy/power. The most commonly used 
 
 In the Chart below we can see the worldwide energy production in 2010.
 
-![Energy system](/media_files/source_of_energy_generation.jpg)
+![Energy system](/media_files/source_of_energy_generation_1.jpg)
 
 [Figure 2. The source of energy of electrical generation] ....Data projection as reported in Energy Information Administration report: DOE/EIA-0484(2009).
 
@@ -64,12 +64,6 @@ To work with Energy is a complex process as it is possible to convert it into di
 2. Load : Device that consumes the energy like TV, Radio, Fridge
 3. Transmission lines which transfer the energy from sources to loads
 4. Storage to store the energy for later use when it's needed, like Li-I battery storage.  
-
-The Stand-alone system is defined as shown in the figure below:
-
-![Components of stand alone system](/media_files/stand_alone_pv_systems.png)
-
-[Figure 1: Components of stand alone system] [1]
 
 ## Energy Source
 
