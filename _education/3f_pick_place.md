@@ -40,6 +40,10 @@ permalink: /education/reproduction_pick_place/
 
 Once the solder paste is applied to the PCB based, We now proceed with placing the electronic components.
 
+Here you see the different between the PCB with soldermask but without electrical parts and the PCB with electrical parts.
+
+<iframe src="https://h5p.org/h5p/embed/191468" width="1091" height="617" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ### Reading the PCB layout
 Since there is a long list of components to be placed, It is easier to organize them in orderly fashion, for ex: starting with resistors of one class and then the next by referring the Items list as show below.
 
