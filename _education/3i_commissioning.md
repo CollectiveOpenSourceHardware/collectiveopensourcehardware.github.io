@@ -1,9 +1,7 @@
 ---
-title: "Step 7 - Commissioning and testing of created PCB hardware"
+title: "![icon_test](/media_files/steps_test.png) Step 7 - Commissioning and testing of created PCB hardware"
 permalink: /education/reproduction_test/
 ---
-
-![icon_test](/media_files/steps_test.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}

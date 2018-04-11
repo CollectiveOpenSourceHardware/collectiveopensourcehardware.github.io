@@ -1,9 +1,9 @@
 ---
-title: "Step 4 - Pick and Place"
+title: "![icon_equip](/media_files/steps_equip.png) Step 4 - Pick and Place"
 permalink: /education/reproduction_pick_place/
 ---
 
-![icon_equip](/media_files/steps_equip.png)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}

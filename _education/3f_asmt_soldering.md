@@ -1,9 +1,9 @@
 ---
-title: "Step 3 - Applying Solder paste onto the PCB"
+title: "![icon_rakeln](/media_files/steps_rakeln.png) Step 3 - Applying Solder paste onto the PCB"
 permalink: /education/reproduction_smt_soldering/
 ---
 
-![icon_rakeln](/media_files/steps_rakeln.png)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}

@@ -1,9 +1,7 @@
 ---
-title: "Step 8 - Flashing the firmware"
+title: "![icon_flashing](/media_files/steps_flashing.png) Step 8 - Flashing the firmware"
 permalink: /education/reproduction_flashing/
 ---
-
-![icon_flashing](/media_files/steps_flashing.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
