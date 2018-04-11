@@ -19,7 +19,7 @@ permalink: /education/reproduction_test/
   </tr>
   <tr>
     <td class="tg-rmb8">Tools</td>
-    <td class="tg-rmb9">Soldering iron, Magnifying glass, Multimeter, Microscope (if available), Thermal camera (if available)</td>
+    <td class="tg-rmb9">Soldering iron, Magnifying glass, Multimeter,<br /> Microscope (if available), Thermal camera (if available)</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Needed Skills<br></td>
