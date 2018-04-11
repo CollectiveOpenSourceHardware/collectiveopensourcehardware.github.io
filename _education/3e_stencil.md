@@ -1,9 +1,9 @@
 ---
-title: "Creating a Stencil"
+title: "![icon_stencil](/media_files/steps_stencil.png) Step 2 - Creating a Stencil"
 permalink: /education/reproduction_stencil/
 ---
 
-![icon_stencil](/media_files/steps_stencil.png)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}

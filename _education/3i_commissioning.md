@@ -1,5 +1,5 @@
 ---
-title: "Commissioning and testing of created PCB hardware"
+title: "Step 7 - Commissioning and testing of created PCB hardware"
 permalink: /education/reproduction_test/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reflow Oven"
+title: "Step 5 - Reflow Oven"
 permalink: /education/reproduction_reflow_oven/
 ---
 

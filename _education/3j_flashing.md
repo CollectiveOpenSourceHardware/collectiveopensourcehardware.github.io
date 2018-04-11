@@ -1,5 +1,5 @@
 ---
-title: "Flashing the firmware"
+title: "Step 8 - Flashing the firmware"
 permalink: /education/reproduction_flashing/
 ---
 

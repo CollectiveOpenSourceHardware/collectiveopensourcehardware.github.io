@@ -1,5 +1,5 @@
 ---
-title: "THT soldering"
+title: "Step 6 - THT soldering"
 permalink: /education/reproduction_tht_soldering/
 ---
 

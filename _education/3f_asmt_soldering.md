@@ -1,5 +1,5 @@
 ---
-title: "Applying Solder paste onto the PCB"
+title: "Step 3 - Applying Solder paste onto the PCB"
 permalink: /education/reproduction_smt_soldering/
 ---
 

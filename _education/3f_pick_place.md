@@ -1,5 +1,5 @@
 ---
-title: "Pick and Place"
+title: "Step 4 - Pick and Place"
 permalink: /education/reproduction_pick_place/
 ---
 
