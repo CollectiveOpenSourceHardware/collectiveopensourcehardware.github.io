@@ -36,7 +36,7 @@ Since batteries can only store a limited amount of energy, it is possible to use
 
 The Figure below shows an example of a stand-alone hybrid system.
 
-![Energy system](/media_files/stand_alone hybrid_systems.jpg)
+![Energy system](/media_files/stand_alone_hybrid_systems_1.jpg)
 
 [Figure 4 - Stand-alone hybrid systems] [1]
 
@@ -50,6 +50,6 @@ Disadvantages: The energy supply depends on the grid and the power transmission 
 
 The Figure below shows an example of a stand-alone hybrid system.
 
-![Energy system](/media_files/grid_connected_pv_systems.jpg)
+![Energy system](/media_files/grid_connected_pv_systems_1.jpg)
 
 [Figure 5 - Grid connected PV-systems] [1]
