@@ -3,6 +3,8 @@ title: "Pick and Place"
 permalink: /education/reproduction_pick_place/
 ---
 
+![icon_equip](/media_files/steps_equip.png)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
 .tg td{font-family:Arial, sans-serif;font-size:16px;padding:2px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}

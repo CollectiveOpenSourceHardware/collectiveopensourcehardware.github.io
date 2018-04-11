@@ -3,6 +3,8 @@ title: "Creating a Stencil"
 permalink: /education/reproduction_stencil/
 ---
 
+![icon_stencil](/media_files/steps_stencil.png)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
 .tg td{font-family:Arial, sans-serif;font-size:16px;padding:2px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
@@ -40,7 +42,7 @@ The following steps you should do in a fablab where you have the materials and m
 
 Before fitting all the small electronic parts on to the PCB we need to apply solder first. In this tutorial you learn how to create a reusable stencil which is used later to spread solder on to the whole board.
 
-Instead of applying solder manually to every solder joint we use a laser cutter to create a stencil which can be reused if you want to prepare more than one PCB. You will fix the stencil on the board so than you can all the solder junction but nothing else - afterward you spread solder on the board which is explaned in the [next tutorial](/solarbox/smt_soldering).
+Instead of applying solder manually to every solder joint we use a laser cutter to create a stencil which can be reused if you want to prepare more than one PCB. You will fix the stencil on the board so than you can all the solder junction but nothing else - afterward you spread solder on the board which is explained in the [next tutorial](/education/reproduction_smt_soldering/).
 
 ![fitting the stencil onto the PCB](/media_files/stencil_fit.jpg)
 
