@@ -27,7 +27,7 @@ permalink: /education/reproduction_stencil/
   </tr>
   <tr>
     <td class="tg-rmb8">Time</td>
-    <td class="tg-rmb9"circa 60 minutes</td>
+    <td class="tg-rmb9">circa 60 minutes</td>
   </tr>
 </table>
 

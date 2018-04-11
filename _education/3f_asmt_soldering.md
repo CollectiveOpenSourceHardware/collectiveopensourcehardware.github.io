@@ -27,7 +27,7 @@ permalink: /education/reproduction_smt_soldering/
   </tr>
   <tr>
     <td class="tg-rmb8">Time</td>
-    <td class="tg-rmb9"circa 15 minutes</td>
+    <td class="tg-rmb9">circa 15 minutes</td>
   </tr>
 </table>
 
