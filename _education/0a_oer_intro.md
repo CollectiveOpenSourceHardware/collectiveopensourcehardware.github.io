@@ -11,23 +11,21 @@ So this OER should also provide a documentation to run a workshop in a fablab, s
 The first chapters will describe **energy systems** in general. Afterwards, the **Libre Solar ecosystem** will be explained in more detail, followed by a detailed **step-by-step guide** how to reproduce an electrical circuit board using the Libre Solar project as an example.
 
 
-</br>
 
-![intro_energy](/media_files/intro_energy.png)
-## Introduction to Energy systems
+##  ![intro_energy](/media_files/intro_energy.png) </br> Introduction to Energy systems
 
 First to understand how to rebuild an solarcharger we want to introduce you the topic of energy systems. With focus on electrical energy system we explain how the current comes out of the socket? What are the differences between fossil based energy ressources and renewable energy ressources or the differences between a central controlled or decentral controlled energy grid systems.
 
-## ![intro_libresolar](/media_files/intro_libresolar.png) Get to Know Hardware Components - Libre solar
+## ![intro_libresolar](/media_files/intro_libresolar.png) </br>Get to Know Hardware Components - Libre solar
 
 In this chapter you get a little overview of the Libre Solar project which will be the practical example of rebuilding open hardware.
 What hardware is it? For what can I use it? How can I use it?
 
-## ![intro_tools](/media_files/intro_tools.png) Overview of fabrication tools and materials
+## ![intro_tools](/media_files/intro_tools.png) </br>Overview of fabrication tools and materials
 
 For the reproduction of an electrical component like a PCB (printed circuit board) you will need some tools and machines you probably don't have at home. Therefore we want to describe the machines and tools as well as the materials you will need.
 What machines and material do I need? How to use them in the correct way?
 
-## ![intro_stepguide](/media_files/intro_stepguide.png) Step by Step Guide for Building a Printed Circuit board (PCB)
+## ![intro_stepguide](/media_files/intro_stepguide.png)</br> Step by Step Guide for Building a Printed Circuit board (PCB)
 
 In this reproduction guideline/ step-by-step guide we show you how to assembly a PCB in order to get your own solarcharger for building up your own regenerative electrical energy system.
