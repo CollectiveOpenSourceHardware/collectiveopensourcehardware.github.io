@@ -39,8 +39,8 @@ If enough heat is added to liquid water at 100 °C, it eventually boils and beco
 
 Mechanical energy is the energy of physical movement, such as moving air or water, a ball being thrown, or even a person lifting a piece of wood. As with many forms of energy, mechanical energy eventually ends up being released or lost as thermal energy. A good example of this is the way that the sandpaper and wood convert mechanical energy to sensible energy that you feel as heat. [5]
 
-### Electrical Energy
 ![electrical energy](/media_files/energy_intro_electrical_energy.png)
+### Electrical Energy
 
 Electrical energy involves the movement of electric current through wires. Electrical energy is a very useful form of energy because it can perform many functions. Ultimately, most electrical energy or electricity also ends up as thermal energy in the form of sensible heat. Some devices such as electric heaters convert the energy directly; other devices such as motors convert electricity to mechanical energy which eventually becomes heat. The trick to optimizing electricity use is to maximize the amount of work done by electricity before it is lost as heat. Typically, this also involves optimizing the use of mechanical energy. [5]
 
