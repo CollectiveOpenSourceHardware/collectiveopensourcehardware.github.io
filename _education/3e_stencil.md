@@ -1,5 +1,5 @@
 ---
-title: "![icon_stencil](/media_files/steps_stencil.png) Step 2 - Creating a Stencil"
+title: "![icon_stencil](/media_files/steps_stencil.png) <br /> Step 2 - Creating a Stencil"
 permalink: /education/reproduction_stencil/
 ---
 
@@ -36,9 +36,9 @@ permalink: /education/reproduction_stencil/
     Your browser does not support the video tag.
 </video>
 
-##
+## Starting with Production
 
-The following steps you should do in a fablab where you have the materials and machines.
+The following steps you should do in a fablab where you find the materials and tools like a lasercutter.
 
 Before fitting all the small electronic parts on to the PCB we need to apply solder first. In this tutorial you learn how to create a reusable stencil which is used later to spread solder on to the whole board.
 
