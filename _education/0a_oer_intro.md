@@ -21,7 +21,7 @@ First to understand how to rebuild an solarcharger we want to introduce you the 
 In this chapter you get a little overview of the Libre Solar project which will be the practical example of rebuilding open hardware.
 What hardware is it? For what can I use it? How can I use it?
 
-## ![intro_tools](/media_files/intro_tools.png) </br>Overview of fabrication tools and materials
+## ![intro_tools](/media_files/intro_tools.png)   Overview of fabrication tools and materials
 
 For the reproduction of an electrical component like a PCB (printed circuit board) you will need some tools and machines you probably don't have at home. Therefore we want to describe the machines and tools as well as the materials you will need.
 What machines and material do I need? How to use them in the correct way?
