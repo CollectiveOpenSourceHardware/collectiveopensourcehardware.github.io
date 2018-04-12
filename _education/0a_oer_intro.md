@@ -10,7 +10,11 @@ So this OER should also provide a documentation to run a workshop in a fablab, s
 
 The first chapters will describe **energy systems** in general. Afterwards, the **Libre Solar ecosystem** will be explained in more detail, followed by a detailed **step-by-step guide** how to reproduce an electrical circuit board using the Libre Solar project as an example.
 
-## ![intro_energy](/media_files/intro_energy.png) Introduction to Energy systems
+
+</br>
+
+![intro_energy](/media_files/intro_energy.png)
+## Introduction to Energy systems
 
 First to understand how to rebuild an solarcharger we want to introduce you the topic of energy systems. With focus on electrical energy system we explain how the current comes out of the socket? What are the differences between fossil based energy ressources and renewable energy ressources or the differences between a central controlled or decentral controlled energy grid systems.
 
