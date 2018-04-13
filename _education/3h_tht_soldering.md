@@ -1,5 +1,5 @@
 ---
-title: "![icon_tht](/media_files/steps_tht.png) Step 6 - THT soldering"
+title: "![icon_tht](/media_files/steps_tht.png) <br /> Step 6 - THT soldering"
 permalink: /education/reproduction_tht_soldering/
 ---
 

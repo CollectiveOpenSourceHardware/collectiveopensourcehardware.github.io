@@ -1,5 +1,5 @@
 ---
-title: "![icon_rakeln](/media_files/steps_rakeln.png) Step 3 - Applying Solder paste onto the PCB"
+title: "![icon_rakeln](/media_files/steps_rakeln.png) <br /> Step 3 - Applying Solder paste onto the PCB"
 permalink: /education/reproduction_smt_soldering/
 ---
 

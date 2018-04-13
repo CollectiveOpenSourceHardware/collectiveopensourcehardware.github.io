@@ -1,5 +1,5 @@
 ---
-title: "![icon_test](/media_files/steps_test.png) Step 7 - Testing of created PCB hardware"
+title: "![icon_test](/media_files/steps_test.png) <br /> Step 7 - Testing of created PCB hardware"
 permalink: /education/reproduction_test/
 ---
 

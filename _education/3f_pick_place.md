@@ -1,5 +1,5 @@
 ---
-title: "![icon_equip](/media_files/steps_equip.png) Step 4 - Pick and Place"
+title: "![icon_equip](/media_files/steps_equip.png) <br /> Step 4 - Pick and Place"
 permalink: /education/reproduction_pick_place/
 ---
 
