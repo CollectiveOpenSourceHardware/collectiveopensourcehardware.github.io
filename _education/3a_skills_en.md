@@ -24,7 +24,7 @@ Do not worry, for the step-by-step guide you do not need profound programming sk
 
 ## ![ns_eng](/media_files/needed_skill_electrical.png) <br /> Basic Knowledege in Electrical Enginnering
 
-You should have a basic understanding of electrical behavior. What is current, what is voltage and what does electrical resistance mean? We will not explicitly answer these questions. An introduction to that topic can be found in the following Wikipedia entry ![Electrical Network](https://en.wikipedia.org/wiki/Electrical_network).
+You should have a basic understanding of electrical behavior. What is current, what is voltage and what does electrical resistance mean? We will not explicitly answer these questions. An introduction to that topic can be found in the following Wikipedia entry [Electrical Network](https://en.wikipedia.org/wiki/Electrical_network).
 You will need the electrical skills for
 - understanding the behaviour of the total system
 - for measuring of the finished PCB to perform a functional test
