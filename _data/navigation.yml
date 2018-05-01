@@ -75,7 +75,7 @@ education:
         url: /education/end_pcb/
 
 hardware:
- - title: Solar Box
+ - title: Libre Solar Box
    children:
       - title: "System Overview"
         url: /hardware/solarbox_intro/

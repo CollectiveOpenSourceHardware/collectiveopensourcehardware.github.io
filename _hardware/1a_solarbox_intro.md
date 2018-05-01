@@ -9,7 +9,9 @@ You find our development process of the solar box on following [GitHub repositor
 
 ## Some impressions...
 
-![Libre Solar Box Layout](/media_files/libre_solar_box_layout.png)
+<!--![Libre Solar Box Layout](/media_files/libre_solar_box_layout.png)-->
+
+<iframe src="https://h5p.org/h5p/embed/231072" width="1091" height="690" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Overview of the Libre Solar Box layout.
 
