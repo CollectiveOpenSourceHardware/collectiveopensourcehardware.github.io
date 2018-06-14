@@ -25,12 +25,12 @@ In the upcoming OER you will learn how to connect the solarcharger with solarpan
 
 ## Roadmap
 
-1. First we tell you what knowledge is neccessary in order to complete the OER.
+First we tell you what knowledge is neccessary in order to complete the OER.
 
 ![road_home](/media_files/Icons/roadmap_at_home.png)
 
-2. After this you get a little introduction in the tools and environment where you find all the needed data
+After this you get a little introduction in the tools and environment where you find all the needed data
 
 ![road_home](/media_files/Icons/roadmap_stepguide.png)
 
-3. Then you can start with the steps you see in the navigation in the left side. The first step - the ordering process you can do at home. The further steps you have to have the needed machines and tools so we recommend you to visit your favourite fablab to do so.
+Then you can start with the steps you see in the navigation in the left side. The first step - the ordering process you can do at home. The further steps you have to have the needed machines and tools so we recommend you to visit your favourite fablab to do so.
