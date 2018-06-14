@@ -3,7 +3,7 @@ title: "![icon_order](/media_files/steps_order.png) <br /> Step 1 - Ordering of 
 permalink: /education/reproduction_pcb_order/
 ---
 
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:5;border-color:#416960;border-width:2px; border-style:solid;}
 .tg td{font-family:Arial, sans-serif;font-size:16px;padding:2px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;}
 .tg .tg-rmb8{font-weight:bold;vertical-align:top; text-align:right; width:200px;}
@@ -29,7 +29,14 @@ permalink: /education/reproduction_pcb_order/
     <td class="tg-rmb8">Time</td>
     <td class="tg-rmb9">circa 90 minutes</td>
   </tr>
-</table>
+</table> -->
+
+![icon_order](/media_files/steps_order.png)
+| Materials | Tools | Needed Skills | Time |
+| -------- | -------- | -------- | ------|
+| Data from GitHub | Computer with internet access | Basic PC knowledge | ca. 90 min
+
+------------------------------------------------
 
 The first step to build up the hardware is ordering a PCB. Most of the Libre Solar components are too complex to be produced at home, so you will have to order the PCBs. This step-by-step guide will show how to obtain all necessary data for the fab house. We will use the Libre Solar MPPT charge controller as an example, but the steps are the same for all other projects.
 
