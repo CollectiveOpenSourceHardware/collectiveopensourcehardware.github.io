@@ -49,6 +49,8 @@ education:
 
   - title: PCB Reproduction
     children:
+      - title: "!!! Disclaimer !!!"
+        url: /education/disclaimer/
       - title: "Introduction"
         url: /education/guide_intro/
       - title: "Needed Skills"
