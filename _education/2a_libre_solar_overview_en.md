@@ -51,4 +51,5 @@ This offers many possibilities in the area of Internet of Things (IoT). An examp
 An example visualization of the energy values can be seen in the following picture.
 
 ![OEM](/media_files/introduction_openenergymonitor.png)
+
 [Source: https://guide.openenergymonitor.org/images/applications/home-energy/myelectric_webapp.png, License: ]

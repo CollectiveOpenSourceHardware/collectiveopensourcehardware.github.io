@@ -6,7 +6,7 @@ permalink: /education/guide_intro/
 In the following pages you will learn how to reproduce a printed circuit board, short a PCB.
 As a showcase we use a solarcharger circuit that in the end together with solarpanels and batteries you have a ready-to-use regenerative energy system.
 
-## What is a Printed Circuit Board (PCB)
+## What is a Printed Circuit Board (PCB)?
 As the word PCB is used so often in this OER we want to explain what a PCB is.
 A printed circuit board (PCB) is a carrier for electronic components. It serves for mechanical fastening and electrical connection. Almost every electronic device contains one or more printed circuit boards.
 Together with electric parts you get a printed circuit board assembly (PCBA). Usually you just use the term PCB. But to differentiate between a PCB with and without electric parts you have the extra term PCBA.

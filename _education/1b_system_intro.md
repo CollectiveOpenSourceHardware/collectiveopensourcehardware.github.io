@@ -23,7 +23,7 @@ The total energy of a physical system can be subdivided and classified into **po
 
 Beside the fundamental differentiation in potential and kinetic energy there are **four different types** of energy we have in our everyday life.
 
-### ![chemical energy](/media_files/energy_intro_chemical_energy.png) <br /> Chemical Energy
+### ![chemical energy](/media_files\Icons\icon_chemical_energy.png) <br /> Chemical Energy
 
 Chemical energy is the energy which helps to "glue" atoms together in those clusters called molecules, or chemical compounds. Of special interest to us are substances such as natural gas, or propane, or oil that are capable of releasing some of that energy. When we burn these fuels, we unglue some of the atoms from each other, liberating the chemically-bound energy that held them together. In the process, the chemical energy is changed in form to high temperature heat energy, a form well suited to doing many different kinds of work. This process takes place every time we flick butane lighter. [5]
 
@@ -31,9 +31,9 @@ Chemical energy is the energy which helps to "glue" atoms together in those clus
 
 Thermal energy involves the microscopic movement of atoms and molecules in everything around us. Thermal energy is often commonly referred to as heat. In fact, there are really two types of thermal energy.
 
--	**"Sensible"** Energy or sensible heat, is energy that jostles molecules and atoms in substances such as water. The more movement, the hotter the substance becomes. Sensible energy gets its name from the fact that we can sense it, by touching the substance directly or indirectly with a thermometer of some type. When we add heat to water in a kettle, we increase its temperature.
+-	**Sensible** Energy or sensible heat, is energy that jostles molecules and atoms in substances such as water. The more movement, the hotter the substance becomes. Sensible energy gets its name from the fact that we can sense it, by touching the substance directly or indirectly with a thermometer of some type. When we add heat to water in a kettle, we increase its temperature.
 
--	**"Latent"** Energy or latent heat, is the energy that is needed to make a substance such as water (a liquid) change to a different form (or phase) of the same substance such as water vapour (a gas). The change of form happens when enough sensible heat is added, and the molecules move too fast to be connected together and eventually separate. It gets its name from the fact that it lies hidden or latent, until the conditions are suitable for it to emerge.
+-	**Latent** Energy or latent heat, is the energy that is needed to make a substance such as water (a liquid) change to a different form (or phase) of the same substance such as water vapour (a gas). The change of form happens when enough sensible heat is added, and the molecules move too fast to be connected together and eventually separate. It gets its name from the fact that it lies hidden or latent, until the conditions are suitable for it to emerge.
 
 If enough heat is added to liquid water at 100 °C, it eventually boils and becomes a vapour, also called a gas. If enough heat is removed from liquid water at 0°C, it eventually turns into the solid we call ice. Heat will always naturally flow from a higher temperature to a lower temperature. Thermal energy may move in many different ways, between many different substances, and change back and forth between its sensible and latent forms. [5]
 
