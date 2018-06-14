@@ -19,11 +19,18 @@ The two components of PCB and electric parts must be combined together to get a 
 This combination process is shown in the following steps.
 The production of the PCB without the electrical parts is not part of this step-by-step guide. It is obtained externally from a manufacturer. How to order a blank PCB is explained under [Ordering Process](/education/reproduction_pcb_order/).
 
-## What you get at the end of this reproduction guide
+## What do you get at the end of this reproduction guide?
 The result of this reproduction guide is MPPT solarcharger, a PCB for running a electrical solar power system.
 In the upcoming OER you will learn how to connect the solarcharger with solarpanels and batteries together.
 
 ## Roadmap
+
 1. First we tell you what knowledge is neccessary in order to complete the OER.
+
+![road_home](/media_files/Icons/roadmap_at_home.png)
+
 2. After this you get a little introduction in the tools and environment where you find all the needed data
+
+![road_home](/media_files/Icons/roadmap_stepguide.png)
+
 3. Then you can start with the steps you see in the navigation in the left side. The first step - the ordering process you can do at home. The further steps you have to have the needed machines and tools so we recommend you to visit your favourite fablab to do so.
