@@ -1,9 +1,9 @@
 ---
-title: "Open Educational Resource - Libre Solar"
+title: "Open Educational Resources - Libre Solar"
 permalink: /education/
 ---
 
-The following pages will describe the build-up of an open source solar system based on Libre Solar components. As an Open Educational Resource (OER), it is aimed to be accessible for everyone to reuse, revise, remix and redistribute.
+The following pages will describe the build-up of an open source solar system based on Libre Solar components. As Open Educational Resources (OER), they are aimed to be accessible for everyone to reuse, revise, remix and redistribute.
 Our aim is that everyone is able to understand and rebuild this open hardware projects.
 Due to the fabrication complexity it will not be possible for everyone to build this example at home. So we show the concept of a fablab where we can build up together, let's say from do-it-yourself (DIY) to do-it-together (DIT).
 So this OER should also provide a documentation to run a workshop in a fablab, school, university or any other public place which has access to the needed tools.
