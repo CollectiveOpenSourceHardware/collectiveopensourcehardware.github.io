@@ -33,7 +33,7 @@ permalink: /education/reproduction_pcb_order/
 
 <!-- ![icon_order](/media_files/steps_order.png) -->
 | Materials | Tools | Needed Skills | Time |
-| -------- | -------- | -------- | ------|
+| -------- | -------- | -------- | -------- |
 | Data from GitHub | Computer with internet access | Basic PC knowledge | ca. 90 min |
 
 ------------------------------------------------
