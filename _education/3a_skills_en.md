@@ -7,7 +7,7 @@ For the successful performance of the following step-by-step instructions some p
 In addition to general computer skills this also includes basic knowledge in programming and electrical engineering.
 The following points give you an overview of the prior knowledge needed.
 
-## ![ns_com](/media_files/needed_skills_computer.png) <br /> General Computer Skills
+## ![ns_com](/media_files/Icons/needed_skills_computer.png) <br /> General Computer Skills
 
 Dealing with a computer is almost a common knowledge in our time. Some people can handle it better, some can handle it worse.
 For the step-by-step instructions you need computer skills for
@@ -15,21 +15,21 @@ For the step-by-step instructions you need computer skills for
 - Installation of software programs downloaded from the Internet
 - Knowledge of standard interfaces (like USB-port, LAN)
 
-## ![ns_c](/media_files/needed_skill_c.png) <br /> Basic Knowledge in C/C++
+## ![ns_c](/media_files/Icons/needed_skills_programming.png) <br /> Basic Knowledge in C/C++
 
 The programming languages ​​C and C ++ are the most commonly used programming languages. Especially in hardware-related programming which means to control physical systems by programming these programming languages ​​are used.
 Do not worry, for the step-by-step guide you do not need profound programming skills. However you should be able to understand the basic syntax of C and C++ to be able to read and adapt some code blocks.
 - Adjustment of configuration parameters <br>  (the software can be adapted to use different battery types)
 - Flashing the Firmware in the embedded µC (Microcontroler)
 
-## ![ns_eng](/media_files/needed_skill_electrical.png) <br /> Basic Knowledege in Electrical Enginnering
+## ![ns_eng](/media_files/Icons/needed_skills_electrical.png) <br /> Basic Knowledege in Electrical Enginnering
 
 You should have a basic understanding of electrical behavior. What is current, what is voltage and what does electrical resistance mean? We will not explicitly answer these questions. An introduction to that topic can be found in the following Wikipedia entry [Electrical Network](https://en.wikipedia.org/wiki/Electrical_network).
 You will need the electrical skills for
 - understanding the behaviour of the total system
 - for measuring of the finished PCB to perform a functional test
 
-## ![ns_mech](/media_files/needed_skill_mechanical.png) <br /> Practical Work with electrical components
+## ![ns_mech](/media_files/Icons/needed_skills_practical.png) <br /> Practical Work with electrical components
 
 The handling of electrical components differs from other handcraft activities in the electric current that comes into play and this can be dangerous if it is handled incorrectly.
 The electric boards which are reproduced with the provided step-by-step guide have a low current flow as long as no solar panels are connected. Anyway, we want to point out the 5 safety rules of electrical engineering.

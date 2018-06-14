@@ -9,13 +9,13 @@ In this chapter we first of all want to explain in general what Libre Solar is a
 Libre Solar is an open hardware project for the development of a local energy network based on regenerative energy sources. Libre Solar contains the necessary electrical circuit boards (PCB - printed circuit boards), which are interconnected between energy producers (e.g. solar panels), energy storage devices (e.g. lithium ion batteries) and the load (electrical devices that we want to supply with electricity, e.g. our computer or freezer). Thus, a modular overall system can be set up, depending on the power and storage capacity requirements.
 
 
-## Brief description of the components
+# Brief description of the components
 The following electrical components are part of the Libre Solar project
 - **MPPT** (**M**aximum **P**ower **P**oint **T**racker)
 - **BMS** (**B**attery **M**anagement **S**ystem)
 - **CAN2Wifi** (communication gateway)
 
-### Maximum Power Point Tracker
+## Maximum Power Point Tracker
 ![roadmap](/media_files/pcb_MPPT_charger_20A_rendered.png)
 <br>
 
@@ -36,7 +36,7 @@ The basic tasks of the Libre Solar MPPT Charge Controller are:
 
 The built-in microcontroller allows the connection of different energy sources and energy storage devices by simple software adaptations.
 
-### Battery Management System
+## Battery Management System
 The BMS module is optional as soon as lithium ion batteries are used.
 Lithium ion batteries have a high energy density, so the energy capacity per kg. Thus, they are particularly well suited for mobile applications, such as in electromobility or in the consumer sector. The batteries in our mobile phones are also lithium ion batteries.
 A disadvantage of this battery type is the sensitivity to overvoltage and deep discharge. Therefore, they require an upstream electrical circuit that covers these monitoring functions, a so-called Battery Management System (BMS).
