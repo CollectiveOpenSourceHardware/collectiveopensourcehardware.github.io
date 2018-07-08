@@ -9,18 +9,17 @@ The following points give you an overview of the prior knowledge needed.
 
 ## ![ns_com](/media_files/Icons/needed_skills_computer.png) <br /> General Computer Skills
 
-Dealing with a computer is almost a common knowledge in our time. Some people can handle it better, some can handle it worse.
-For the step-by-step instructions you need computer skills for
+Dealing with a computer is almost a common knowledge in our time. For the step-by-step instructions you need computer skills for
 - Working with the file explorer
 - Installation of software programs downloaded from the Internet
 - Knowledge of standard interfaces (like USB-port, LAN)
 
 ## ![ns_c](/media_files/Icons/needed_skills_programming.png) <br /> Basic Knowledge in C/C++
 
-The programming languages ​​C and C ++ are the most commonly used programming languages. Especially in hardware-related programming which means to control physical systems by programming these programming languages ​​are used.
-Do not worry, for the step-by-step guide you do not need profound programming skills. However you should be able to understand the basic syntax of C and C++ to be able to read and adapt some code blocks.
+The programming languages ​​C and C++ are the most commonly used languages. They are especially helpful in hardware-related context which means to control physical systems by using these programming languages.
+Do not worry, for the step-by-step guide you do not need profound programming skills. However you should be able to understand the basic syntax of C and C++ to be able to read and adapt some code blocks:
 - Adjustment of configuration parameters <br>  (the software can be adapted to use different battery types)
-- Flashing the Firmware in the embedded µC (Microcontroler)
+- Flashing the Firmware on the embedded µC (Microcontroller)
 
 ## ![ns_eng](/media_files/Icons/needed_skills_electrical.png) <br /> Basic Knowledege in Electrical Enginnering
 
