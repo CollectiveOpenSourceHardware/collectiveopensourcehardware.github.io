@@ -19,7 +19,7 @@ Dealing with a computer is almost a common knowledge in our time. For the step-b
 The programming languages ​​C and C++ are the most commonly used languages. They are especially helpful in hardware-related context which means to control physical systems by using these programming languages.
 Do not worry, for the step-by-step guide you do not need profound programming skills. However you should be able to understand the basic syntax of C and C++ to be able to read and adapt some code blocks:
 - Adjustment of configuration parameters <br>  (the software can be adapted to use different battery types)
-- Flashing the Firmware on the embedded Microcontroller
+- Flashing the Firmware on the embedded µC (Microcontroller)
 
 ## ![ns_eng](/media_files/Icons/needed_skills_electrical.png) <br /> Basic Knowledege in Electrical Enginnering
 
