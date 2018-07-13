@@ -7,7 +7,7 @@ Below you find a short introduction video to understand what open (source) hardw
 Therefor we introduce to you **Harold**, the open source hardware robot. **Harold** represents our technology in general.
 Have fun! 
 
-<iframe src="https://podcampus.de/nodes/RLqXk/embed?vq=res1080" width="1920" height="1080" frameborder="0" seamless allowfullscreen></iframe>
+<iframe src="https://podcampus.de/nodes/RLqXk/embed?vq=res1080" width="1280" height="720" frameborder="0" seamless allowfullscreen></iframe>
 
 
 ## Development
