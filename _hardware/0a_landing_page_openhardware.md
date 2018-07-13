@@ -1,7 +1,16 @@
 ---
-title: "Open Hardware Development"
+title: "Open Source Hardware"
 permalink: /hardware/
 ---
+
+Below you find a short introduction video to understand what open (source) hardware really means.
+Therefor we introduce to you **Harold**, the open source hardware robot. **Harold** represents our technology in general.
+Have fun! 
+
+<iframe src="https://podcampus.de/nodes/RLqXk/embed?vq=res1080" width="1920" height="1080" frameborder="0" seamless allowfullscreen></iframe>
+
+
+## Development
 
 Here you find our Open Hardware Development projects.
 We focus on socioeconomic relevant projects like
@@ -12,3 +21,4 @@ We focus on socioeconomic relevant projects like
 - agriculture
 
 If you have a project that you like to share with us, feel free to contact us.
+
