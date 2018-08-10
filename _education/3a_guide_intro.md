@@ -27,9 +27,13 @@ In another OER you will learn how to connect the solarcharger with solarpanels a
 
 First we tell you what knowledge is neccessary in order to complete the OER.
 
+### Preparation at Home
+
 ![road_home](/media_files/Icons/roadmap_at_home.png)
 
 It is followed by a little introduction into the tools and the environment where you can find all the needed data.
+
+### Execution at Fablab/ Workshop
 
 ![road_home](/media_files/Icons/roadmap_stepguide.png)
 
