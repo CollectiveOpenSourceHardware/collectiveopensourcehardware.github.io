@@ -13,7 +13,7 @@ The first chapters will describe **energy systems** in general. Afterwards, the 
 
 ##  ![intro_energy](/media_files/Icons/icon_energy_system_tesla_coil.png) <br /> Introduction to Energy systems
 
-First to understand how to rebuild an solarcharger we want to introduce you the topic of energy systems. With focus on electrical energy system we explain how the current comes out of the socket? What are the differences between fossil based energy ressources and renewable energy ressources or the differences between a central controlled or decentral controlled energy grid systems.
+First to understand how to rebuild a solarcharger we want to introduce you the topic of energy systems. With focus on electrical energy system we explain how current comes out of the socket. What are the differences between fossil based energy ressources and renewable energy ressources or the differences between a central controlled or decentral controlled energy grid systems. 
 
 
 ## ![intro_libresolar](/media_files/Icons/icon_get_to_know_libre_solar.png) <br /> Get to Know Hardware Components - Libre solar
