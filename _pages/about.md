@@ -15,7 +15,7 @@ Our goal is to help build a sustainable future with openness and love.
 
 ![cos(h) team during Libre Solar PCB reproduction](/images/team.jpg)
 
-![cos(h) team during Libre Solar PCB reproduction](/images/team_1.jpg)
+<!-- ![cos(h) team during Libre Solar PCB reproduction](/images/team_1.jpg) -->
 
 
 All our content and development is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license unless otherwise specified.
