@@ -10,7 +10,7 @@ header:
   cta_label: "Find out more..."
   cta_url: "/mission/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Let's build sustainable hardware. For everyone."
+excerpt: "Let's build sustainable hardware. With everyone. For everyone."
 feature_row:
   - image_path: images/team.jpg
     alt: "Collective Open Source Hardware"
