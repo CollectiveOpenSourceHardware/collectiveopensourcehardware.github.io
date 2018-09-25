@@ -70,4 +70,3 @@ Together with [Open Source Ecology Germany (OSEG)](https://opensourceecology.de/
 Everyone is free to collaborate with us and participate in our collective. Just write us an email or contribute on [Github](https://github.com/CollectiveOpenSourceHardware).
 
 We usually have our meetups on Thursdays at the [Fabolous St.Pauli](http://www.fablab-hamburg.org/).
-Just join our [telegram chanel](https://t.me/joinchat/ETorPA8QlOb8LAn82PtBcw).
