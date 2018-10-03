@@ -79,31 +79,27 @@ education:
  - title: Solarbox Assembly
     children:
       - title: "!!! Disclaimer !!!"
-        url: /education/box_disclaimer/
+        url: /education/solarbox_assembly_guide/disclaimer/
       - title: "Introduction"
-        url: /education/box_intro/
+        url: /education/solarbox_assembly_guide/intro/
       - title: "Needed Skills"
-        url: /education/reproduction_skills/
+        url: /education/solarbox_assembly_guide/needed_skills/
       - title: "Tools & Environment"
-        url: /education/reproduction_environment/
-      - title: "Step 1 - Ordering Process"
-        url: /education/reproduction_pcb_order/
-      - title: "Step 2 - Creating a Stencil"
-        url: /education/reproduction_stencil/
-      - title: "Step 3 - Applying Solder"
-        url: /education/reproduction_smt_soldering/
-      - title: "Step 4 - Pick and Place"
-        url: /education/reproduction_pick_place/
-      - title: "Step 5 - Reflow Oven"
-        url: /education/reproduction_reflow_oven/
-      - title: "Step 6 - THT Soldering"
-        url: /education/reproduction_tht_soldering/
-      - title: "Step 7 - Hardware Test"
-        url: /education/reproduction_test/
-      - title: "Step 8 - Firmware Flashing"
-        url: /education/reproduction_flashing/
+        url: /education/solarbox_assembly_guide/reproduction_environment/
+      - title: "Step 1 - Boxframe Assembly"
+        url: /education/solarbox_assembly_guide/frame_assembly/
+      - title: "Step 2 - Mounting Electric Parts"
+        url: /education/solarbox_assembly_guide/mounting_eletric/
+      - title: "Step 3 - Mounting Plugs"
+        url: /education/solarbox_assembly_guide/mounting_plugs/
+      - title: "Step 4 - Wiring batteries"
+        url: /education/solarbox_assembly_guide/wiring_battery/
+      - title: "Step 5 - Wiring Electric"
+        url: /education/solarbox_assembly_guide/wiring_electric/
+      - title: "Step 6 - Mounting Blending"
+        url: /education/solarbox_assembly_guide/mounting_blending/
       - title: "Finished"
-        url: /education/end_pcb/
+        url: /education/solarbox_assembly_guide/fnish_box/
 
 hardware:
  - title: Libre Solar Box
