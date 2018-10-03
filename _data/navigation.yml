@@ -76,6 +76,35 @@ education:
       - title: "Finished"
         url: /education/end_pcb/
 
+ - title: Solarbox Assembly
+    children:
+      - title: "!!! Disclaimer !!!"
+        url: /education/box_disclaimer/
+      - title: "Introduction"
+        url: /education/box_intro/
+      - title: "Needed Skills"
+        url: /education/reproduction_skills/
+      - title: "Tools & Environment"
+        url: /education/reproduction_environment/
+      - title: "Step 1 - Ordering Process"
+        url: /education/reproduction_pcb_order/
+      - title: "Step 2 - Creating a Stencil"
+        url: /education/reproduction_stencil/
+      - title: "Step 3 - Applying Solder"
+        url: /education/reproduction_smt_soldering/
+      - title: "Step 4 - Pick and Place"
+        url: /education/reproduction_pick_place/
+      - title: "Step 5 - Reflow Oven"
+        url: /education/reproduction_reflow_oven/
+      - title: "Step 6 - THT Soldering"
+        url: /education/reproduction_tht_soldering/
+      - title: "Step 7 - Hardware Test"
+        url: /education/reproduction_test/
+      - title: "Step 8 - Firmware Flashing"
+        url: /education/reproduction_flashing/
+      - title: "Finished"
+        url: /education/end_pcb/
+
 hardware:
  - title: Libre Solar Box
    children:
