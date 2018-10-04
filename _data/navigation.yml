@@ -35,10 +35,10 @@ education:
         url: /education/energy_components/
       - title: "Fossil vs. Renewable"
         url: /education/energy_fossil_renewable/
-      - title: "AC vs. DC"
-        url: /education/energy_ac_dc/
-      - title: "Central vs. Decentral"
-        url: /education/energy_central_decentral/
+  #    - title: "AC vs. DC"
+  #      url: /education/energy_ac_dc/
+  #    - title: "Central vs. Decentral"
+  #      url: /education/energy_central_decentral/
 
   - title: Libre Solar
     children:
