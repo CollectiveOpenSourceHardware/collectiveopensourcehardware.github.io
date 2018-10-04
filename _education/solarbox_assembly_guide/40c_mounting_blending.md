@@ -5,7 +5,7 @@ permalink: /education/solarbox_assembly_guide/mounting_blending/
 ---
 
 Now you the box is nearly finished. You just have to mount the blending to cover the components.
-Optional you can mount handles to carry the box
+Optional you can mount handles to carry the box.
 
 ### Add back blending
 (Better do it before interface blending because the inteface blending is not flat.)

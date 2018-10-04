@@ -3,20 +3,20 @@ main:
 #  - title: "Blog"
 #    url: /blog/
 
-  - title: "Mission"
-    url: /mission/
+- title: "Mission"
+  url: /mission/
 
-  - title: "Open Education"
-    url: /education/
+- title: "Open Education"
+  url: /education/
 
-  - title: "Open Hardware"
-    url: /hardware/
+- title: "Open Hardware"
+  url: /hardware/
 
-  - title: "Collaboration"
-    url: /collaborations/
+- title: "Collaboration"
+  url: /collaborations/
 
-  - title: "About"
-    url: /about/
+- title: "About"
+  url: /about/
 
 #mission:
 #  - title: Open Source

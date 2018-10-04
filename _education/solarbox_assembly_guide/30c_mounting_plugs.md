@@ -10,7 +10,7 @@ For this we have our front blade of wood which already have all the needed holes
 
 ![frint blade](/media_files/box_assembly/30c_mounting_plugs_frontblade.png)
 
-### Mount interface blending
+## Mount interface blending
 
 * Mount on/off-switch.
 * Mount CAN Socket.

@@ -5,7 +5,7 @@ permalink: /education/solarbox_assembly_guide/wiring_battery/
 ---
 Wiring the battery cells needs extra caution.
 
-### Add batteries
+## Add batteries
 * Mark the batteries with numbers *1*, *2*, *3*, and *4*.
 * Put batteries into the battery case.
 * Isolate main **+** and main **-** of the batteries. (Is it important to have main "+" or "-" on particular side of the battery block?")
