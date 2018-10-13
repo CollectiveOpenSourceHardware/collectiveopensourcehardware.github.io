@@ -3,7 +3,7 @@ main:
     url: /mission/
   - title: "Open Education"
     url: /education/
-    - title: "Open Hardware"
+  - title: "Open Hardware"
     url: /hardware/
   - title: "Collaboration"
     url: /collaborations/
