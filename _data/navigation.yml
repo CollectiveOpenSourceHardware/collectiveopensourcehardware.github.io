@@ -1,21 +1,14 @@
 main:
-#  - title: "Blog"
-#    url: /blog/
-
-- title: "Mission"
-  url: /mission/
-
-- title: "Open Education"
-  url: /education/
-
-- title: "Open Hardware"
-  url: /hardware/
-
-- title: "Collaboration"
-  url: /collaborations/
-
-- title: "About"
-  url: /about/
+  - title: "Mission"
+    url: /mission/
+  - title: "Open Education"
+    url: /education/
+    - title: "Open Hardware"
+    url: /hardware/
+  - title: "Collaboration"
+    url: /collaborations/
+  - title: "About"
+    url: /about/
 
 #mission:
 #  - title: Open Source
