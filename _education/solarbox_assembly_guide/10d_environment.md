@@ -24,7 +24,7 @@ For the assembly we recommend your local fablab and a group of people to do it t
 
 You can find the complete [BOM (bill of materials) for the boxframe](https://wiki.opensourceecology.de/BOM_BoxSet_V.2_mobile) at the project webpage of the UniProKit.
 
-![comp_overview](/media_files/box_assembly/10d_components_overview.png)
+![comp_overview](/media_files/box_assembly/10d_components_overview.JPG)
 
   - Battery pack
     - 3D printed battery case: bottom and cap -> [download link](https://github.com/CollectiveOpenSourceHardware/LibreSolarBox/tree/master/Solar%20Box_FreeCAD%20Design/Battery_Case_Holder_FreeCAD_Design)
