@@ -8,7 +8,7 @@ Now you have to mount the plugs and the main switch. This part is the interface 
 
 For this we have our front blade of wood which already have all the needed holes for the plugs and switch.
 
-![frint blade](/media_files/box_assembly/30c_mounting_plugs_frontblade.png)
+![front blade](/media_files/box_assembly/30c_mounting_plugs_frontblade.jpg)
 
 ## Mount interface blending
 
